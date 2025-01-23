@@ -34,10 +34,13 @@ class TecnicasFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
+
     ): View {
         _binding = FragmentTecnicasBinding.inflate(inflater, container, false)
         return binding.root
+
     }
+
 
     //----------------------------------------------------------------------------------------------
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -173,8 +176,7 @@ class TecnicasFragment : Fragment() {
             "Turtle (Tortuga)",
             "Quarter Guard"
         )
-        Log.d("AgregarTecnica", "Tipos de técnica: ${tiposTecnica.toList()}")
-        Log.d("AgregarTecnica", "Posiciones iniciales: ${posicionesIniciales.toList()}")
+
 
         spPosicionInicial.adapter = ArrayAdapter(
             requireContext(),
@@ -263,7 +265,7 @@ class TecnicasFragment : Fragment() {
                     variante = null,
                     recursosAdicionales = if (fuentes.isNotEmpty()) fuentes else null
                 )
-                Log.d("DebugFuentes", "Lista final de fuentes: $fuentes")
+
 
                 // Insertar en la base de datos
                 viewModel.insert(nuevaTecnica)
@@ -311,7 +313,7 @@ class TecnicasFragment : Fragment() {
                 android.R.layout.simple_spinner_dropdown_item,
                 tiposOpciones
             )
-            Log.d("Fragment", "Tipos cargados: $tiposOpciones")
+
         })
 
         viewModel.dificultades.observe(viewLifecycleOwner, Observer { dificultades ->
@@ -321,7 +323,7 @@ class TecnicasFragment : Fragment() {
                 android.R.layout.simple_spinner_dropdown_item,
                 dificultadesOpciones
             )
-            Log.d("Fragment", "Dificultades cargadas: $dificultadesOpciones")
+
         })
 
         // Observa las opciones del ViewModel y actualiza los adaptadores
@@ -383,8 +385,6 @@ class TecnicasFragment : Fragment() {
                 }
             } else null
 
-            Log.d("FiltrosSeleccionados", "Posición: $posicionInicial, Subtipo: $subtipoPosicionInicial, " +
-                    "Tipo: $tipoTecnica, Dificultad: $dificultad")
 
             viewModel.setFiltros(
                 posicionInicial = posicionInicial,

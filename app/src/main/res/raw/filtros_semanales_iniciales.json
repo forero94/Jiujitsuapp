@@ -1,289 +1,289 @@
 [
     {
-      "mes": "Enero",
-      "semana": "Semana 1",
+      "mes": "enero",
+      "semana": "1",
       "posicionInicial": "De pie (Standing)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Enero",
-      "semana": "Semana 2",
+      "mes": "enero",
+      "semana": "2",
       "posicionInicial": "De pie (Standing)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Enero",
-      "semana": "Semana 3",
+      "mes": "enero",
+      "semana": "3",
       "posicionInicial": "De pie (Standing)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Enero",
-      "semana": "Semana 4",
+      "mes": "enero",
+      "semana": "4",
       "posicionInicial": "De pie (Standing)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Febrero",
-      "semana": "Semana 1",
+      "mes": "febrero",
+      "semana": "1",
       "posicionInicial": "Guardia cerrada (Closed Guard)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Febrero",
-      "semana": "Semana 2",
+      "mes": "febrero",
+      "semana": "2",
       "posicionInicial": "Guardia cerrada (Closed Guard)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Febrero",
-      "semana": "Semana 3",
+      "mes": "febrero",
+      "semana": "3",
       "posicionInicial": "Guardia cerrada (Closed Guard)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Febrero",
-      "semana": "Semana 4",
+      "mes": "febrero",
+      "semana": "4",
       "posicionInicial": "Guardia cerrada (Closed Guard)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Marzo",
-      "semana": "Semana 1",
+      "mes": "marzo",
+      "semana": "1",
       "posicionInicial": "Half Guard (Media Guardia)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Marzo",
-      "semana": "Semana 2",
+      "mes": "marzo",
+      "semana": "2",
       "posicionInicial": "Half Guard (Media Guardia)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Marzo",
-      "semana": "Semana 3",
+      "mes": "marzo",
+      "semana": "3",
       "posicionInicial": "Half Guard (Media Guardia)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Marzo",
-      "semana": "Semana 4",
+      "mes": "marzo",
+      "semana": "4",
       "posicionInicial": "Half Guard (Media Guardia)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Abril",
-      "semana": "Semana 1",
+      "mes": "abril",
+      "semana": "1",
       "posicionInicial": "Side Control (Control Lateral)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Abril",
-      "semana": "Semana 2",
+      "mes": "abril",
+      "semana": "2",
       "posicionInicial": "Side Control (Control Lateral)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Abril",
-      "semana": "Semana 3",
+      "mes": "abril",
+      "semana": "3",
       "posicionInicial": "Side Control (Control Lateral)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Abril",
-      "semana": "Semana 4",
+      "mes": "abril",
+      "semana": "4",
       "posicionInicial": "Side Control (Control Lateral)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Mayo",
-      "semana": "Semana 1",
+      "mes": "mayo",
+      "semana": "1",
       "posicionInicial": "Montada (Mount)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Mayo",
-      "semana": "Semana 2",
+      "mes": "mayo",
+      "semana": "2",
       "posicionInicial": "Montada (Mount)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Mayo",
-      "semana": "Semana 3",
+      "mes": "mayo",
+      "semana": "3",
       "posicionInicial": "Montada (Mount)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Mayo",
-      "semana": "Semana 4",
+      "mes": "mayo",
+      "semana": "4",
       "posicionInicial": "Montada (Mount)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Junio",
-      "semana": "Semana 1",
+      "mes": "junio",
+      "semana": "1",
       "posicionInicial": "Back Control (Control de espalda)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Junio",
-      "semana": "Semana 2",
+      "mes": "junio",
+      "semana": "2",
       "posicionInicial": "Back Control (Control de espalda)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Junio",
-      "semana": "Semana 3",
+      "mes": "junio",
+      "semana": "3",
       "posicionInicial": "Back Control (Control de espalda)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Junio",
-      "semana": "Semana 4",
+      "mes": "junio",
+      "semana": "4",
       "posicionInicial": "Back Control (Control de espalda)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Julio",
-      "semana": "Semana 1",
+      "mes": "julio",
+      "semana": "1",
       "posicionInicial": "Turtle (Tortuga)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Julio",
-      "semana": "Semana 2",
+      "mes": "julio",
+      "semana": "2",
       "posicionInicial": "Turtle (Tortuga)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Julio",
-      "semana": "Semana 3",
+      "mes": "julio",
+      "semana": "3",
       "posicionInicial": "Turtle (Tortuga)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Julio",
-      "semana": "Semana 4",
+      "mes": "julio",
+      "semana": "4",
       "posicionInicial": "Turtle (Tortuga)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Agosto",
-      "semana": "Semana 1",
+      "mes": "agosto",
+      "semana": "1",
       "posicionInicial": "Butterfly Guard (Guardia Mariposa)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Agosto",
-      "semana": "Semana 2",
+      "mes": "agosto",
+      "semana": "2",
       "posicionInicial": "Butterfly Guard (Guardia Mariposa)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Agosto",
-      "semana": "Semana 3",
+      "mes": "agosto",
+      "semana": "3",
       "posicionInicial": "Butterfly Guard (Guardia Mariposa)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Agosto",
-      "semana": "Semana 4",
+      "mes": "agosto",
+      "semana": "4",
       "posicionInicial": "Butterfly Guard (Guardia Mariposa)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Septiembre",
-      "semana": "Semana 1",
+      "mes": "septiembre",
+      "semana": "1",
       "posicionInicial": "Guardia abierta (Open Guard)",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Septiembre",
-      "semana": "Semana 2",
+      "mes": "septiembre",
+      "semana": "2",
       "posicionInicial": "Guardia abierta (Open Guard)",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Septiembre",
-      "semana": "Semana 3",
+      "mes": "septiembre",
+      "semana": "3",
       "posicionInicial": "Guardia abierta (Open Guard)",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Septiembre",
-      "semana": "Semana 4",
+      "mes": "septiembre",
+      "semana": "4",
       "posicionInicial": "Guardia abierta (Open Guard)",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Octubre",
-      "semana": "Semana 1",
+      "mes": "octubre",
+      "semana": "1",
       "posicionInicial": "North-South",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Octubre",
-      "semana": "Semana 2",
+      "mes": "octubre",
+      "semana": "2",
       "posicionInicial": "North-South",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Octubre",
-      "semana": "Semana 3",
+      "mes": "octubre",
+      "semana": "3",
       "posicionInicial": "North-South",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Octubre",
-      "semana": "Semana 4",
+      "mes": "octubre",
+      "semana": "4",
       "posicionInicial": "North-South",
       "tipoTecnica": "Progresion"
     },
     {
-      "mes": "Noviembre",
-      "semana": "Semana 1",
+      "mes": "noviembre",
+      "semana": "1",
       "posicionInicial": "X-Guard",
       "tipoTecnica": "Pasaje"
     },
     {
-      "mes": "Noviembre",
-      "semana": "Semana 2",
+      "mes": "noviembre",
+      "semana": "2",
       "posicionInicial": "X-Guard",
       "tipoTecnica": "Inversion"
     },
     {
-      "mes": "Noviembre",
-      "semana": "Semana 3",
+      "mes": "noviembre",
+      "semana": "3",
       "posicionInicial": "X-Guard",
       "tipoTecnica": "Finalizacion"
     },
     {
-      "mes": "Noviembre",
-      "semana": "Semana 4",
+      "mes": "noviembre",
+      "semana": "4",
       "posicionInicial": "X-Guard",
       "tipoTecnica": "Progresion"
     },
   {
-    "mes": "Diciembre",
-    "semana": "Semana 1",
+    "mes": "diciembre",
+    "semana": "1",
     "posicionInicial": "Quarter Guard",
     "tipoTecnica": "Pasaje"
   },
   {
-    "mes": "Diciembre",
-    "semana": "Semana 2",
+    "mes": "diciembre",
+    "semana": "2",
     "posicionInicial": "Quarter Guard",
     "tipoTecnica": "Inversion"
   },
   {
-    "mes": "Diciembre",
-    "semana": "Semana 3",
+    "mes": "diciembre",
+    "semana": "3",
     "posicionInicial": "Quarter Guard",
     "tipoTecnica": "Finalizacion"
   },
   {
-    "mes": "Diciembre",
-    "semana": "Semana 4",
+    "mes": "diciembre",
+    "semana": "4",
     "posicionInicial": "Quarter Guard",
     "tipoTecnica": "Progresion"
   }

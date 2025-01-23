@@ -134,7 +134,8 @@ class TecnicasViewModel(application: Application) : AndroidViewModel(application
                 "Tradicional",
                 "Deep Half",
                 "Z-Guard",
-                "Knee Shield"
+                "Knee Shield",
+                "50/50 Guard"
             )
 
             "Butterfly Guard (Guardia Mariposa)" -> listOf(
@@ -145,7 +146,7 @@ class TecnicasViewModel(application: Application) : AndroidViewModel(application
             "X-Guard" -> listOf(
                 "X-Guard básica",
                 "Single-Leg X (Ashi Garami)",
-                "50/50 Guard"
+
             )
 
             "Side Control (Control Lateral)" -> listOf(

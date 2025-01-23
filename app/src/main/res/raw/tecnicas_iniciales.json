@@ -1586,7 +1586,1528 @@
       "Video: Sweep de Inversión desde Guardia Mariposa - BJJ Fundamentals",
       "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
     ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "X-Guard Basica",
+    "contexto": "Cuando estás en X-Guard y el oponente intenta controlar tus piernas para pasar la guardia.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+    "descripcion": "Desde la X-Guard tradicional, controla una de las piernas del oponente con ambas manos. Utiliza tus ganchos para levantar y desequilibrar al oponente mientras giras tu cuerpo hacia el lado opuesto. Empuja con tus brazos y levanta con tus piernas para realizar el barrido, pasando a una posición dominante en el suelo.",
+    "variante": "Barrido básico con agarre en la manga para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Básico desde X-Guard - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "X-Guard Basica",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras estás en X-Guard.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo para extenderlo completamente.",
+    "descripcion": "Desde la X-Guard tradicional, engancha el brazo del oponente y controla su postura con tus piernas. Gira tu cuerpo hacia el lado opuesto mientras estiras tus piernas para aislar el brazo del oponente. Aplica presión hacia abajo en el brazo para ejecutar la palanca y obligar a la sumisión.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde X-Guard - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "X-Guard Basica",
+    "contexto": "Cuando el oponente intenta pasar tu X-Guard y expone su brazo y cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde la X-Guard tradicional, controla el brazo y cuello del oponente. Coloca una pierna sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo. Aprieta las piernas y tira de tu cadera hacia abajo para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo desde X-Guard - BJJ Techniques",
+      "Seminario: Estrangulaciones desde X-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "X-Guard Basica",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde X-Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+    "descripcion": "Desde la X-Guard tradicional, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo. Asegura una figura de kimura girando tu cuerpo y tirando del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde X-Guard con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura desde X-Guard - BJJ Techniques",
+      "DVD: Sumisiones desde X-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Inversión desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "X-Guard Basica",
+    "contexto": "Cuando estás en X-Guard y el oponente intenta mantener la postura pero puedes desestabilizar su equilibrio.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la X-Guard tradicional, controla la postura del oponente y usa tus ganchos para levantar y desestabilizar. Gira tu cuerpo hacia un lado mientras tiras de los brazos del oponente, realizando un barrido que te permite obtener una posición dominante en el suelo.",
+    "variante": "Sweep de Inversión con agarre en las mangas para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Inversión desde X-Guard - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido de Single Leg desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+    "contexto": "Cuando estás en X-Guard con control de una pierna del oponente y buscas invertir la posición.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+    "descripcion": "Desde la X-Guard con una pierna controlada, utiliza tus ganchos para levantar la pierna del oponente mientras giras tu cuerpo hacia el lado opuesto. Empuja con tus brazos para desequilibrar al oponente y realiza el barrido, pasando a una posición dominante en el suelo.",
+    "variante": "Barrido de Single Leg con agarre en la manga para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido de Single Leg desde X-Guard - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar de Single Leg desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+    "contexto": "Cuando tienes control de un brazo del oponente desde X-Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo mediante un armbar.",
+    "descripcion": "Desde la X-Guard con una pierna controlada, engancha el brazo del oponente y utiliza tus piernas para aislar el brazo. Gira tu cuerpo hacia el lado opuesto y estira tus piernas para aplicar presión en el codo del oponente, ejecutando la palanca y obligando a la sumisión.",
+    "variante": "Armbar de Single Leg con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar de Single Leg desde X-Guard - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina de Single Leg desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+    "contexto": "Cuando el oponente intenta pasar tu X-Guard y expone su cuello mientras controlas una de sus piernas.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde la X-Guard con una pierna controlada, pasa tu brazo por encima del cuello del oponente mientras mantienes el control de su pierna. Ajusta tu posición para cerrar la guillotina con tus piernas y aplica presión hacia abajo para estrangular al oponente, forzándolo a la sumisión.",
+    "variante": "Guillotina de Single Leg con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Guillotina de Single Leg desde X-Guard - BJJ Techniques",
+      "Seminario: Estrangulaciones desde X-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura de Single Leg desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+    "contexto": "Cuando tienes control de un brazo del oponente desde X-Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+    "descripcion": "Desde la X-Guard con una pierna controlada, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo. Asegura una figura de kimura girando tu cuerpo y tirando del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura de Single Leg desde X-Guard con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura de Single Leg desde X-Guard - BJJ Techniques",
+      "DVD: Sumisiones desde X-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Inversión de Single Leg desde X-Guard",
+    "posicionInicial": "X-Guard (X-Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+    "contexto": "Cuando estás en X-Guard con control de una pierna y el oponente intenta mantener la postura estable.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la X-Guard con una pierna controlada, utiliza tus ganchos para levantar y desestabilizar al oponente. Gira tu cuerpo hacia un lado mientras tiras de los brazos del oponente, realizando un barrido que te permite obtener una posición dominante en el suelo.",
+    "variante": "Sweep de Inversión de Single Leg con agarre en las mangas para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Inversión de Single Leg desde X-Guard - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+      "id": 0,
+      "nombre": "Barrido de 50/50 Guard Básico",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "BLANCO",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Cuando ambos practicantes están en la posición de 50/50 Guard y buscan desequilibrar al oponente.",
+      "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+      "descripcion": "Desde la 50/50 Guard, controla el brazo y la pierna del oponente. Utiliza tus caderas para crear un desequilibrio empujando hacia un lado mientras giras tu cuerpo hacia el otro. Levanta con tus piernas y tira con tus brazos para realizar el barrido, pasando a una posición dominante en el suelo.",
+      "variante": "Barrido de 50/50 Guard con agarre en el cinturón para mayor control durante la inversión.",
+      "recursosAdicionales": [
+        "Video: Barrido Básico de 50/50 Guard - BJJ Fundamentals",
+        "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Kimura desde 50/50 Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "BLANCO",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Cuando tienes control de uno de los brazos del oponente desde la 50/50 Guard y buscas aplicar una sumisión.",
+      "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+      "descripcion": "Desde la 50/50 Guard, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+      "variante": "Kimura desde 50/50 Guard con control de torso para evitar escapes del oponente.",
+      "recursosAdicionales": [
+        "Video: Kimura desde 50/50 Guard - BJJ Techniques",
+        "DVD: Sumisiones desde 50/50 Guard - Gracie Jiu-Jitsu"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Escape de 50/50 Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "BLANCO",
+      "tipoTecnica": "Escape",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Cuando estás atrapado en la 50/50 Guard y buscas escapar para mejorar tu posición.",
+      "objetivoPrincipal": "Escapar de la 50/50 Guard para evitar ser controlado o sometido por el oponente.",
+      "descripcion": "Desde la 50/50 Guard, utiliza técnicas de empuje y tirón para liberar tus brazos y piernas del control del oponente. Gira tu cuerpo hacia un lado mientras mantienes una postura baja para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+      "variante": "Escape de 50/50 Guard con control de brazo para prevenir que el oponente establezca un control más dominante.",
+      "recursosAdicionales": [
+        "Video: Escape de 50/50 Guard - BJJ Basics",
+        "Seminario: Técnicas de Escape en 50/50 Guard - Gracie Jiu-Jitsu"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Pasaje de 50/50 Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "BLANCO",
+      "tipoTecnica": "Pasaje",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Cuando estás en la 50/50 Guard y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+      "objetivoPrincipal": "Pasar la guardia del oponente desde la 50/50 Guard para lograr una posición dominante como side control o montada.",
+      "descripcion": "Desde la 50/50 Guard, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior como side control.",
+      "variante": "Pasaje de 50/50 Guard con control de cabeza para evitar contragolpes durante el pasaje.",
+      "recursosAdicionales": [
+        "Video: Pasaje de 50/50 Guard - BJJ Techniques",
+        "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Sweep de Control desde 50/50 Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "BLANCO",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Cuando estás en la 50/50 Guard y el oponente intenta mantener la postura pero puedes desestabilizar su equilibrio.",
+      "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+      "descripcion": "Desde la 50/50 Guard, controla la postura del oponente y usa tus brazos para desestabilizar su equilibrio. Gira tu cuerpo hacia un lado mientras tiras de sus brazos y empujas con tus caderas para realizar el barrido, obteniendo una posición dominante en el suelo.",
+      "variante": "Sweep de Control desde 50/50 Guard con agarre en las mangas para mayor control durante el barrido.",
+      "recursosAdicionales": [
+        "Video: Sweep de Control desde 50/50 Guard - BJJ Fundamentals",
+        "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+      ]
+    },
+  {
+    "id": 0,
+    "nombre": "Americana desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Estándar (Cross side)",
+    "contexto": "Cuando tienes control sobre el brazo del oponente desde una posición de Side Control.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Americana.",
+    "descripcion": "Desde Side Control, asegura un agarre en la muñeca del brazo del oponente y cruza tu brazo por encima de su brazo. Gira tu cuerpo hacia el lado opuesto mientras aplicas una palanca hacia arriba en el codo del oponente, forzando la sumisión.",
+    "variante": "Americana con agarre invertido para mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Americana desde Side Control - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Estándar (Cross side)",
+    "contexto": "Cuando tienes control del brazo del oponente desde Side Control y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde Side Control, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo, asegurando una figura de Kimura. Gira tu cuerpo hacia el lado opuesto y tira del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Side Control - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Cabeza y Brazo desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Estándar (Cross side)",
+    "contexto": "Cuando estás en Side Control y necesitas mantener el control sobre el oponente para prevenir escapes.",
+    "objetivoPrincipal": "Mantener el control de la cabeza y el brazo del oponente para limitar sus movimientos y preparar futuras técnicas.",
+    "descripcion": "Desde Side Control, coloca tu brazo debajo del cuello del oponente y controla su brazo extendido. Usa tu peso corporal para mantener al oponente cerca y evita que intente escapar o pasar la guardia.",
+    "variante": "Control de Cabeza y Brazo con presión adicional de cadera para mayor estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Cabeza y Brazo desde Side Control - BJJ Fundamentals",
+      "DVD: Técnicas de Control para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Guardia desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Estándar (Cross side)",
+    "contexto": "Cuando estás en Side Control y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde Side Control para lograr una posición dominante como Montada o Back Control.",
+    "descripcion": "Desde Side Control, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Desplaza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior como Montada.",
+    "variante": "Pasaje de Guardia con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje de Guardia desde Side Control - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Estándar (Cross side)",
+    "contexto": "Cuando estás en Side Control y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de Side Control para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde Side Control, utiliza técnicas de empuje y tirón para liberar tus brazos y caderas del control del oponente. Gira tu cuerpo hacia un lado mientras mantienes una postura baja para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Side Control con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Side Control - BJJ Basics",
+      "Seminario: Técnicas de Escape en Side Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Americana desde Kesa Gatame",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Kesa Gatame (Scarf Hold)",
+    "contexto": "Cuando tienes control sobre el brazo del oponente desde una posición de Kesa Gatame.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Americana.",
+    "descripcion": "Desde Kesa Gatame, asegura un agarre en la muñeca del brazo del oponente. Cruza tu brazo sobre el brazo del oponente y aplica una palanca hacia arriba en el codo, forzando la sumisión.",
+    "variante": "Americana con agarre invertido para mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Americana desde Kesa Gatame - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Kesa Gatame",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Kesa Gatame (Scarf Hold)",
+    "contexto": "Cuando tienes control del brazo del oponente desde Kesa Gatame y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde Kesa Gatame, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Kesa Gatame - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Arm Triangle desde Kesa Gatame",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Kesa Gatame (Scarf Hold)",
+    "contexto": "Cuando tienes control de la cabeza y un brazo del oponente desde Kesa Gatame.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse mediante el arm triangle.",
+    "descripcion": "Desde Kesa Gatame, coloca tu brazo alrededor del cuello del oponente y bajo su brazo controlado. Cruza tu otro brazo por encima de su brazo y ajusta tus piernas para mantener la presión. Aprieta con tus hombros hacia el oponente para aplicar la estrangulación.",
+    "variante": "Arm Triangle con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Arm Triangle desde Kesa Gatame - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Side Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Cabeza y Brazo desde Kesa Gatame",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Kesa Gatame (Scarf Hold)",
+    "contexto": "Cuando estás en Kesa Gatame y necesitas mantener el control sobre el oponente para prevenir escapes.",
+    "objetivoPrincipal": "Mantener el control de la cabeza y el brazo del oponente para limitar sus movimientos y preparar futuras técnicas.",
+    "descripcion": "Desde Kesa Gatame, coloca tu brazo debajo del cuello del oponente y controla su brazo extendido. Usa tu peso corporal para mantener al oponente cerca y evita que intente escapar o pasar la guardia.",
+    "variante": "Control de Cabeza y Brazo con presión adicional de cadera para mayor estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Cabeza y Brazo desde Kesa Gatame - BJJ Fundamentals",
+      "DVD: Técnicas de Control para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Kesa Gatame",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Kesa Gatame (Scarf Hold)",
+    "contexto": "Cuando estás en Kesa Gatame y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de Kesa Gatame para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde Kesa Gatame, utiliza técnicas de empuje y tirón para liberar tus brazos y caderas del control del oponente. Gira tu cuerpo hacia un lado mientras mantienes una postura baja para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Kesa Gatame con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Kesa Gatame - BJJ Basics",
+      "Seminario: Técnicas de Escape en Kesa Gatame - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sumisión Twister desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Twister Side Control",
+    "contexto": "Cuando tienes control lateral sobre el oponente y buscas aplicar una sumisión que involucra una torsión del torso.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una torsión en la columna vertebral mediante la técnica del Twister.",
+    "descripcion": "Desde Side Control, asegura el control de la cabeza y el brazo del oponente. Gira tu cuerpo hacia el lado opuesto mientras colocas tu brazo debajo del cuello del oponente. Usa tus piernas para mantener la base y aplica una torsión hacia el costado opuesto, alineando tu cadera con la del oponente para ejercer presión en la columna vertebral.",
+    "variante": "Twister con agarre cruzado para mayor control y estabilidad durante la sumisión.",
+    "recursosAdicionales": [
+      "Video: Sumisión Twister desde Side Control - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Twister desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Twister Side Control",
+    "contexto": "Cuando estás en Side Control y el oponente intenta recuperar su postura, buscando desestabilizarlo mediante un barrido que involucra una torsión.",
+    "objetivoPrincipal": "Invertir la posición pasando a una guardia superior mediante un movimiento de torsión.",
+    "descripcion": "Desde Side Control, controla el brazo y la cintura del oponente. Gira tu cuerpo hacia el lado opuesto mientras levantas ligeramente con tus piernas. Aplica una torsión hacia el costado del oponente, utilizando tus caderas para desequilibrarlo y realizar el barrido, pasando a una posición dominante como la montada.",
+    "variante": "Barrido Twister con agarre en el cinturón para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Twister desde Side Control - BJJ Basics",
+      "DVD: Técnicas de Barrido Efectivas - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control Twister desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Twister Side Control",
+    "contexto": "Cuando estás en Side Control y deseas mantener un control estricto utilizando técnicas de torsión para limitar los movimientos del oponente.",
+    "objetivoPrincipal": "Mantener el control del oponente limitando su movilidad y prepararse para futuras sumisiones o transiciones.",
+    "descripcion": "Desde Side Control, asegura el control de la cabeza y el brazo del oponente. Utiliza tus brazos para envolver su torso y aplica una ligera torsión hacia un lado, manteniendo la presión con tus caderas. Esto impide que el oponente recupere su postura y prepara el terreno para futuras técnicas de sumisión.",
+    "variante": "Control Twister con presión adicional de cadera para mayor estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control Twister desde Side Control - BJJ Fundamentals",
+      "DVD: Técnicas de Control Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Transición Twister a Montada",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Twister Side Control",
+    "contexto": "Cuando estás en Side Control y deseas transicionar a una posición de montada utilizando un movimiento de torsión.",
+    "objetivoPrincipal": "Mejorar la posición pasando a la montada para obtener un control más dominante.",
+    "descripcion": "Desde Side Control, controla el brazo y la cabeza del oponente. Gira tu cuerpo hacia un lado mientras aplicas una torsión ligera. Utiliza tus caderas para elevar al oponente y desplaza tu peso hacia adelante, pasando tu rodilla sobre el torso del oponente para establecer la montada.",
+    "variante": "Transición Twister con agarre en la manga para mayor control durante el pase a montada.",
+    "recursosAdicionales": [
+      "Video: Transición Twister a Montada - BJJ Techniques",
+      "DVD: Progresiones de Posición Superior - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape Twister desde Side Control",
+    "posicionInicial": "Side Control (Control Lateral)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Twister Side Control",
+    "contexto": "Cuando estás siendo controlado en Side Control y necesitas escapar utilizando técnicas de torsión para desestabilizar al oponente.",
+    "objetivoPrincipal": "Escapar de Side Control para mejorar la posición y evitar ser sometido.",
+    "descripcion": "Desde Side Control, utiliza tus brazos para crear espacio y gira tu cuerpo hacia un lado mientras aplicas una torsión ligera. Empuja con tus caderas y utiliza tus piernas para levantar y desestabilizar al oponente. Esto te permite crear suficiente espacio para escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape Twister con control de cabeza para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape Twister desde Side Control - BJJ Basics",
+      "Seminario: Técnicas de Escape Efectivas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación North-South",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Control de cadera y torso",
+    "contexto": "Cuando estás en posición North-South y tienes control sobre el torso y las caderas del oponente.",
+    "objetivoPrincipal": "Aplicar una estrangulación efectiva para forzar la sumisión del oponente.",
+    "descripcion": "Desde la posición North-South, coloca tu brazo alrededor del cuello del oponente y asegúrate de mantener un agarre firme. Usa tu torso para aplicar presión hacia abajo mientras empujas con tus caderas, cerrando la estrangulación y forzando al oponente a rendirse.",
+    "variante": "Estrangulación North-South con un agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación North-South Básica - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Arm Triangle desde North-South",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Control de cadera y torso",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde la posición North-South.",
+    "objetivoPrincipal": "Aplicar una estrangulación mediante la técnica del Arm Triangle para forzar la sumisión.",
+    "descripcion": "Desde la posición North-South, envuelve el brazo del oponente con tu brazo, colocando tu cabeza cerca de su brazo controlado. Cruza tu otro brazo por encima de su brazo y ajusta tu posición para formar un triángulo con tu brazo y la pierna del oponente. Aprieta para aplicar la estrangulación y forzar la sumisión.",
+    "variante": "Arm Triangle North-South con control adicional del torso para evitar escapes.",
+    "recursosAdicionales": [
+      "Video: Arm Triangle desde North-South - BJJ Techniques",
+      "Seminario: Estrangulaciones Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Torso con Presión de Cadera",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Control de cadera y torso",
+    "contexto": "Cuando estás en posición North-South y necesitas mantener el control sobre el torso y las caderas del oponente.",
+    "objetivoPrincipal": "Mantener una posición dominante limitando la movilidad del oponente y preparando futuras técnicas.",
+    "descripcion": "Desde la posición North-South, utiliza tus caderas para aplicar presión constante sobre el torso del oponente. Asegura el control de sus caderas con tus manos o brazos, impidiendo que intente escapar o revertir la posición. Mantén una postura estable y controla su respiración para mantener la dominancia.",
+    "variante": "Control de Torso con Presión de Cadera utilizando ambos brazos para un mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Torso con Presión de Cadera - BJJ Fundamentals",
+      "DVD: Técnicas de Control Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Transición a Montada desde North-South",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Control de cadera y torso",
+    "contexto": "Cuando estás en posición North-South y deseas mejorar tu posición pasando a la montada.",
+    "objetivoPrincipal": "Mejorar la posición pasando a la montada para obtener un control más dominante.",
+    "descripcion": "Desde la posición North-South, mueve tu cadera hacia un lado mientras tiras del brazo del oponente para desestabilizar su postura. Usa tus piernas para levantar y girar tu cuerpo hacia el lado opuesto, pasando tu rodilla sobre el torso del oponente para establecer la montada. Asegura una posición sólida ajustando tus brazos para mantener el control.",
+    "variante": "Transición a Montada con agarre en el cinturón para mayor control durante el pase.",
+    "recursosAdicionales": [
+      "Video: Transición a Montada desde North-South - BJJ Techniques",
+      "DVD: Progresiones de Posición Superior - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Takedown desde North-South",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Control de cadera y torso",
+    "contexto": "Cuando estás en posición North-South y el oponente intenta escapar o cambiar la posición.",
+    "objetivoPrincipal": "Aplicar un derribo para llevar al oponente al suelo controlado.",
+    "descripcion": "Desde la posición North-South, agarra la cintura o la parte inferior del torso del oponente. Usa tus caderas para empujar hacia abajo y desequilibrar al oponente mientras tiras de su torso hacia ti. Realiza un movimiento rápido para derribarlo al suelo, manteniendo el control de su torso durante la caída.",
+    "variante": "Takedown North-South con control de cadera adicional para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Takedown desde North-South - BJJ Fundamentals",
+      "DVD: Técnicas de Derribos para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde North-South con Aislamiento de Brazo",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "North-South con aislamiento de brazo (kimura)",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde la posición North-South.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde la posición North-South con aislamiento de brazo, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de torso para evitar que el oponente escape o contraataque.",
+    "recursosAdicionales": [
+      "Video: Kimura desde North-South - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape de Kimura desde North-South",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "North-South con aislamiento de brazo (kimura)",
+    "contexto": "Cuando estás en posición North-South y tu brazo está aislado para una Kimura, buscando escapar de la sumisión.",
+    "objetivoPrincipal": "Escapar de la posición North-South y liberar el brazo para evitar la sumisión.",
+    "descripcion": "Desde la posición North-South con aislamiento de brazo, utiliza movimientos de empuje y tirón para desestabilizar el agarre del oponente. Gira tu cuerpo hacia el lado opuesto mientras mantienes una postura baja, creando espacio para liberar tu brazo y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape de Kimura con control de cabeza para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape de Kimura desde North-South - BJJ Basics",
+      "Seminario: Técnicas de Escape en North-South - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Transición a Control de Espalda desde North-South con Kimura",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "North-South con aislamiento de brazo (kimura)",
+    "contexto": "Cuando estás en posición North-South con un brazo aislado y deseas mejorar tu posición a un control más dominante.",
+    "objetivoPrincipal": "Mejorar la posición pasando a Control de Espalda para obtener un control más dominante.",
+    "descripcion": "Desde la posición North-South con aislamiento de brazo, utiliza la Kimura para desestabilizar la postura del oponente. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo para abrir espacio y desliza tu cabeza detrás de la espalda del oponente, estableciendo el Control de Espalda.",
+    "variante": "Transición a Control de Espalda con agarre adicional en la manga para mayor estabilidad.",
+    "recursosAdicionales": [
+      "Video: Transición a Control de Espalda desde North-South - BJJ Techniques",
+      "DVD: Progresiones de Posición Superior - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Torso con Presión de Cadera desde North-South con Kimura",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "North-South con aislamiento de brazo (kimura)",
+    "contexto": "Cuando estás en posición North-South y necesitas mantener el control sobre el torso y las caderas del oponente mientras aplicas una Kimura.",
+    "objetivoPrincipal": "Mantener una posición dominante limitando la movilidad del oponente y preparando futuras técnicas de sumisión.",
+    "descripcion": "Desde la posición North-South con aislamiento de brazo, utiliza tus caderas para aplicar presión constante sobre el torso del oponente. Controla su torso con tus brazos mientras mantienes el agarre de Kimura, impidiendo que el oponente escape o contraataque.",
+    "variante": "Control de Torso con Presión de Cadera utilizando ambos brazos para un mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Torso desde North-South con Kimura - BJJ Fundamentals",
+      "DVD: Técnicas de Control Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Takedown desde North-South con Kimura",
+    "posicionInicial": "North-South (North-South)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "North-South con aislamiento de brazo (kimura)",
+    "contexto": "Cuando estás en posición North-South y el oponente intenta escapar o cambiar la posición, buscando aplicar un derribo utilizando el agarre de Kimura.",
+    "objetivoPrincipal": "Aplicar un derribo para llevar al oponente al suelo controlado mientras mantienes el agarre de Kimura.",
+    "descripcion": "Desde la posición North-South con aislamiento de brazo, agarra el brazo del oponente para mantener el control de Kimura. Usa tus caderas para empujar hacia abajo y desequilibrar al oponente mientras tiras de su brazo hacia ti. Realiza un movimiento rápido para derribarlo al suelo, manteniendo el control de su torso y brazo durante la caída.",
+    "variante": "Takedown North-South con control de cadera adicional para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Takedown desde North-South con Kimura - BJJ Fundamentals",
+      "DVD: Técnicas de Derribos para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Americana desde Montada Alta",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada alta (High Mount)",
+    "contexto": "Cuando tienes control sobre el brazo del oponente desde una posición de montada alta.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Americana.",
+    "descripcion": "Desde la montada alta, asegura un agarre en la muñeca del brazo del oponente. Cruza tu brazo sobre el brazo del oponente y aplica una palanca hacia abajo en el codo, forzando la sumisión.",
+    "variante": "Americana con agarre invertido para mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Americana desde Montada Alta - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Montada Alta",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada alta (High Mount)",
+    "contexto": "Cuando tienes control del brazo del oponente desde la posición de montada alta y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde la montada alta, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Montada Alta con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Montada Alta - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Americana desde Montada Alta",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada alta (High Mount)",
+    "contexto": "Cuando tienes control lateral sobre el oponente desde una posición de montada alta y deseas aplicar una estrangulación.",
+    "objetivoPrincipal": "Aplicar una estrangulación efectiva para forzar la sumisión del oponente.",
+    "descripcion": "Desde la montada alta, cruza tu brazo sobre el cuello del oponente y asegúrate de mantener un agarre firme. Usa tu peso corporal para aplicar presión hacia abajo mientras empujas con tu cadera, cerrando la estrangulación y forzando al oponente a rendirse.",
+    "variante": "Estrangulación Americana con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Americana desde Montada Alta - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Torso con Presión de Cadera desde Montada Alta",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Montada alta (High Mount)",
+    "contexto": "Cuando estás en posición de montada alta y necesitas mantener el control sobre el torso y las caderas del oponente.",
+    "objetivoPrincipal": "Mantener una posición dominante limitando la movilidad del oponente y preparando futuras técnicas.",
+    "descripcion": "Desde la montada alta, utiliza tus caderas para aplicar presión constante sobre el torso del oponente. Controla su torso con tus brazos mientras mantienes una postura estable, impidiendo que intente escapar o contragolpear.",
+    "variante": "Control de Torso con Presión de Cadera utilizando ambos brazos para un mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Torso desde Montada Alta - BJJ Fundamentals",
+      "DVD: Técnicas de Control para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Montada Alta",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Montada alta (High Mount)",
+    "contexto": "Cuando estás en montada alta y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de la montada alta para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde la montada alta, utiliza técnicas de puenteo y rebote para crear espacio. Gira tu cuerpo hacia un lado mientras empujas con tus caderas para desestabilizar al oponente. Usa tus brazos para liberarte del control y escapar hacia una posición más neutral o una guardia completa.",
+    "variante": "Escape desde Montada Alta con control de brazo para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape desde Montada Alta - BJJ Basics",
+      "Seminario: Técnicas de Escape en Montada Alta - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Americana desde Montada Baja",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada baja (Low Mount)",
+    "contexto": "Cuando tienes control sobre el brazo del oponente desde una posición de montada baja.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Americana.",
+    "descripcion": "Desde la montada baja, asegura un agarre en la muñeca del brazo del oponente. Cruza tu brazo sobre el brazo del oponente y aplica una palanca hacia abajo en el codo, forzando la sumisión. Mantén una postura estable para evitar que el oponente escape.",
+    "variante": "Americana con agarre invertido para mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Americana desde Montada Baja - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Montada Baja",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada baja (Low Mount)",
+    "contexto": "Cuando tienes control del brazo del oponente desde la posición de montada baja y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde la montada baja, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Montada Baja con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Montada Baja - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Americana desde Montada Baja",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Montada baja (Low Mount)",
+    "contexto": "Cuando tienes control lateral sobre el oponente desde una posición de montada baja y deseas aplicar una estrangulación.",
+    "objetivoPrincipal": "Aplicar una estrangulación efectiva para forzar la sumisión del oponente.",
+    "descripcion": "Desde la montada baja, cruza tu brazo sobre el cuello del oponente y asegúrate de mantener un agarre firme. Usa tu peso corporal para aplicar presión hacia abajo mientras empujas con tu cadera, cerrando la estrangulación y forzando al oponente a rendirse.",
+    "variante": "Estrangulación Americana con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Americana desde Montada Baja - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Torso con Presión de Cadera desde Montada Baja",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Montada baja (Low Mount)",
+    "contexto": "Cuando estás en posición de montada baja y necesitas mantener el control sobre el torso y las caderas del oponente.",
+    "objetivoPrincipal": "Mantener una posición dominante limitando la movilidad del oponente y preparando futuras técnicas.",
+    "descripcion": "Desde la montada baja, utiliza tus caderas para aplicar presión constante sobre el torso del oponente. Controla su torso con tus brazos mientras mantienes una postura estable, impidiendo que intente escapar o contragolpear.",
+    "variante": "Control de Torso con Presión de Cadera utilizando ambos brazos para un mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Torso desde Montada Baja - BJJ Fundamentals",
+      "DVD: Técnicas de Control para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Montada Baja",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Montada baja (Low Mount)",
+    "contexto": "Cuando estás en montada baja y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de la montada baja para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde la montada baja, utiliza técnicas de puenteo y rebote para crear espacio. Gira tu cuerpo hacia un lado mientras empujas con tus caderas para desestabilizar al oponente. Usa tus brazos para liberarte del control y escapar hacia una posición más neutral o una guardia completa.",
+    "variante": "Escape desde Montada Baja con control de brazo para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape desde Montada Baja - BJJ Basics",
+      "Seminario: Técnicas de Escape en Montada Baja - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Americana desde S-Mount",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "S-Mount",
+    "contexto": "Cuando tienes control sobre el brazo del oponente desde una posición de S-Mount.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Americana.",
+    "descripcion": "Desde la S-Mount, asegura un agarre en la muñeca del brazo del oponente. Cruza tu brazo sobre el brazo del oponente y aplica una palanca hacia abajo en el codo, forzando la sumisión. Mantén una postura estable para evitar que el oponente escape.",
+    "variante": "Americana con agarre invertido para mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Americana desde S-Mount - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde S-Mount",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "S-Mount",
+    "contexto": "Cuando tienes control del brazo del oponente desde la posición de S-Mount y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde la S-Mount, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde S-Mount con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde S-Mount - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Arm Triangle desde S-Mount",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "S-Mount",
+    "contexto": "Cuando tienes control de la cabeza y un brazo del oponente desde S-Mount.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse mediante la técnica del Arm Triangle.",
+    "descripcion": "Desde S-Mount, coloca tu brazo alrededor del cuello del oponente y bajo su brazo controlado. Cruza tu otro brazo por encima de su brazo y ajusta tu posición para formar un triángulo con tu brazo y la pierna del oponente. Aprieta para aplicar la estrangulación y forzar la sumisión.",
+    "variante": "Arm Triangle desde S-Mount con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Arm Triangle desde S-Mount - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Montada - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Torso con Presión de Cadera desde S-Mount",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "S-Mount",
+    "contexto": "Cuando estás en posición de S-Mount y necesitas mantener el control sobre el torso y las caderas del oponente.",
+    "objetivoPrincipal": "Mantener una posición dominante limitando la movilidad del oponente y preparando futuras técnicas.",
+    "descripcion": "Desde S-Mount, utiliza tus caderas para aplicar presión constante sobre el torso del oponente. Controla su torso con tus brazos mientras mantienes una postura estable, impidiendo que intente escapar o contragolpear.",
+    "variante": "Control de Torso con Presión de Cadera utilizando ambos brazos para un mayor control y estabilidad.",
+    "recursosAdicionales": [
+      "Video: Control de Torso desde S-Mount - BJJ Fundamentals",
+      "DVD: Técnicas de Control para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde S-Mount",
+    "posicionInicial": "Montada (Mount)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "S-Mount",
+    "contexto": "Cuando estás en S-Mount y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de S-Mount para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde S-Mount, utiliza técnicas de puenteo y rebote para crear espacio. Gira tu cuerpo hacia un lado mientras empujas con tus caderas para desestabilizar al oponente. Usa tus brazos para liberarte del control y escapar hacia una posición más neutral o una guardia completa.",
+    "variante": "Escape desde S-Mount con control de brazo para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape desde S-Mount - BJJ Basics",
+      "Seminario: Técnicas de Escape en Montada Alta - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Rear Naked con Ganchos",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Con ganchos (Hooks)",
+    "contexto": "Cuando tienes control completo de la espalda del oponente utilizando ambos ganchos activos.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una estrangulación efectiva desde la espalda.",
+    "descripcion": "Desde Back Control con ambos ganchos, coloca tu brazo alrededor del cuello del oponente y asegura un agarre firme. Usa tus ganchos para mantener la distancia y estabilizar tu posición. Aplica presión hacia adelante con tu pecho mientras tiras de tu brazo para cerrar la estrangulación, obligando al oponente a rendirse.",
+    "variante": "Rear Naked Choke con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Rear Naked con Ganchos - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Back Control con Ganchos",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Con ganchos (Hooks)",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde la espalda utilizando ambos ganchos.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo mediante la técnica de Armbar.",
+    "descripcion": "Desde Back Control con ganchos, engancha el brazo del oponente y usa tus piernas para controlar su postura. Gira tu cuerpo hacia un lado mientras estiras tus piernas para aislar el brazo del oponente. Aplica presión hacia abajo en el codo para ejecutar la palanca y obligar a la sumisión.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Back Control con Ganchos - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Back Control con Ganchos",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Con ganchos (Hooks)",
+    "contexto": "Cuando el oponente intenta defenderse desde la espalda y expone un brazo y cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde Back Control con ganchos, controla el brazo y cuello del oponente. Coloca una pierna sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo. Aprieta las piernas y tira de tu cadera hacia abajo para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo desde Back Control con Ganchos - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Back Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Bow and Arrow Choke desde Back Control con Ganchos",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Con ganchos (Hooks)",
+    "contexto": "Cuando tienes control sobre el cuello y un brazo del oponente desde la espalda utilizando ambos ganchos.",
+    "objetivoPrincipal": "Aplicar una estrangulación profunda utilizando la técnica del Bow and Arrow para forzar la sumisión.",
+    "descripcion": "Desde Back Control con ganchos, coloca tu brazo sobre el cuello del oponente y engancha su manga o cinturón con tu otra mano. Usa tus ganchos para mantener la estabilidad y tira de su brazo hacia atrás mientras empujas con tu torso, creando una presión de estrangulación similar a un arco y flecha.",
+    "variante": "Bow and Arrow Choke con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Bow and Arrow Choke desde Back Control con Ganchos - BJJ Techniques",
+      "DVD: Técnicas de Estrangulación Avanzadas - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Control de Brazos desde Back Control con Ganchos",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Controles",
+    "subtipoPosicionInicial": "Con ganchos (Hooks)",
+    "contexto": "Cuando estás en Back Control con ambos ganchos activos y necesitas mantener el control sobre los brazos del oponente.",
+    "objetivoPrincipal": "Mantener el control de los brazos del oponente para limitar sus movimientos y preparar futuras técnicas de sumisión.",
+    "descripcion": "Desde Back Control con ganchos, utiliza tus manos para controlar los brazos del oponente, asegurando que estén limitados en su capacidad para defenderse o atacar. Mantén una postura estable y utiliza tus ganchos para mantener la distancia y la estabilidad, impidiendo que el oponente intente escapar o revertir la posición.",
+    "variante": "Control de Brazos con presión adicional de cadera para mayor estabilidad y control.",
+    "recursosAdicionales": [
+      "Video: Control de Brazos desde Back Control con Ganchos - BJJ Fundamentals",
+      "DVD: Técnicas de Control Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Rear Naked desde Body Triangle",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Body Triangle",
+    "contexto": "Cuando tienes control completo de la espalda del oponente utilizando un Body Triangle para limitar sus movimientos.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una estrangulación efectiva desde la espalda.",
+    "descripcion": "Desde Back Control con Body Triangle, coloca uno de tus brazos alrededor del cuello del oponente y asegura un agarre firme con la otra mano. Usa tus piernas para cerrar el Body Triangle, aplicando presión sobre las caderas del oponente. Empuja tu pecho hacia adelante mientras tiras de tu brazo para cerrar la estrangulación, obligando al oponente a rendirse.",
+    "variante": "Rear Naked Choke con Body Triangle ajustado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Rear Naked desde Body Triangle - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Body Triangle",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Body Triangle",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde la espalda utilizando un Body Triangle.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo mediante la técnica de Armbar.",
+    "descripcion": "Desde Back Control con Body Triangle, engancha el brazo del oponente y extiéndelo hacia un lado. Usa tus piernas para mantener el Body Triangle mientras giras tu cuerpo hacia el lado opuesto. Estira tus piernas hacia adelante para aislar el brazo del oponente y aplica presión hacia abajo en el codo, ejecutando la palanca y obligando a la sumisión.",
+    "variante": "Armbar con Body Triangle ajustado para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Body Triangle - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Body Triangle",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Body Triangle",
+    "contexto": "Cuando el oponente intenta defenderse desde la espalda y expone un brazo y cuello mientras está atrapado en un Body Triangle.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde Back Control con Body Triangle, controla el brazo y cuello del oponente. Coloca una de tus piernas sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo. Aprieta las piernas y tira de tu cadera hacia abajo para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido desde Body Triangle para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo desde Body Triangle - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Back Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Bow and Arrow Choke desde Body Triangle",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Body Triangle",
+    "contexto": "Cuando tienes control sobre el cuello y un brazo del oponente desde la espalda utilizando un Body Triangle.",
+    "objetivoPrincipal": "Aplicar una estrangulación profunda utilizando la técnica del Bow and Arrow para forzar la sumisión.",
+    "descripcion": "Desde Back Control con Body Triangle, coloca tu brazo sobre el cuello del oponente y engancha su manga o cinturón con tu otra mano. Usa tus piernas para mantener la estabilidad del Body Triangle y tira de su brazo hacia atrás mientras empujas con tu torso, creando una presión de estrangulación similar a un arco y flecha.",
+    "variante": "Bow and Arrow Choke con Body Triangle ajustado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Bow and Arrow Choke desde Body Triangle - BJJ Techniques",
+      "DVD: Técnicas de Estrangulación Avanzadas - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep desde Body Triangle",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Body Triangle",
+    "contexto": "Cuando estás en Back Control con Body Triangle y el oponente intenta recuperar su postura, buscando desestabilizarlo mediante un barrido.",
+    "objetivoPrincipal": "Invertir la posición pasando a una guardia superior mediante un movimiento de barrido.",
+    "descripcion": "Desde Back Control con Body Triangle, controla la postura del oponente y usa tus ganchos para levantar sus caderas. Gira tu cuerpo hacia un lado mientras tiras de sus brazos hacia ti. Empuja con tus piernas y ajusta tu posición para realizar un barrido, pasando a una posición dominante en el suelo como la guardia abierta.",
+    "variante": "Sweep con Body Triangle ajustado para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Sweep desde Body Triangle - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Rear Naked desde Seatbelt Grip",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Seatbelt Grip",
+    "contexto": "Cuando tienes control completo de la espalda del oponente utilizando el agarre de Seatbelt para limitar sus movimientos.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una estrangulación efectiva desde la espalda.",
+    "descripcion": "Desde Back Control con Seatbelt Grip, coloca un brazo alrededor del cuello del oponente y asegúrate de que el otro brazo esté controlando su brazo opuesto. Cruza tus manos para formar un agarre firme. Usa tus piernas para mantener el equilibrio y aplica presión hacia adelante con tu pecho mientras tiras de tu brazo para cerrar la estrangulación, obligando al oponente a rendirse.",
+    "variante": "Rear Naked Choke con Seatbelt Grip ajustado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Rear Naked desde Seatbelt Grip - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Seatbelt Grip",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Seatbelt Grip",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde la espalda utilizando el agarre de Seatbelt y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo mediante la técnica de Armbar.",
+    "descripcion": "Desde Back Control con Seatbelt Grip, engancha el brazo del oponente y usa tus piernas para controlar su postura. Gira tu cuerpo hacia un lado mientras estiras tus piernas para aislar el brazo del oponente. Aplica presión hacia abajo en el codo para ejecutar la palanca y obligar a la sumisión.",
+    "variante": "Armbar con Seatbelt Grip ajustado para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Seatbelt Grip - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Seatbelt Grip",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Seatbelt Grip",
+    "contexto": "Cuando el oponente intenta defenderse desde la espalda y expone un brazo y cuello mientras está atrapado en el Seatbelt Grip.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde Back Control con Seatbelt Grip, controla el brazo y cuello del oponente. Coloca una pierna sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo. Aprieta las piernas y tira de tu cadera hacia abajo para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido desde Seatbelt Grip para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo desde Seatbelt Grip - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Back Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Bow and Arrow Choke desde Seatbelt Grip",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Seatbelt Grip",
+    "contexto": "Cuando tienes control sobre el cuello y un brazo del oponente desde la espalda utilizando el agarre de Seatbelt.",
+    "objetivoPrincipal": "Aplicar una estrangulación profunda utilizando la técnica del Bow and Arrow para forzar la sumisión.",
+    "descripcion": "Desde Back Control con Seatbelt Grip, coloca tu brazo sobre el cuello del oponente y engancha su manga o cinturón con tu otra mano. Usa tus piernas para mantener la estabilidad y tira del brazo del oponente hacia atrás mientras empujas con tu torso, creando una presión de estrangulación similar a un arco y flecha.",
+    "variante": "Bow and Arrow Choke con Seatbelt Grip ajustado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Bow and Arrow Choke desde Seatbelt Grip - BJJ Techniques",
+      "DVD: Técnicas de Estrangulación Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape de Seatbelt Grip",
+    "posicionInicial": "Back Control (Control de espalda)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Seatbelt Grip",
+    "contexto": "Cuando estás siendo controlado en Back Control con Seatbelt Grip y necesitas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de Back Control con Seatbelt Grip para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde una posición en la que tienes el Seatbelt Grip, utiliza movimientos de puenteo y rebote para crear espacio. Gira tu cuerpo hacia un lado mientras empujas con tus caderas para desestabilizar al oponente. Usa tus brazos para liberarte del agarre y escapar hacia una posición más neutral o una guardia completa.",
+    "variante": "Escape de Seatbelt Grip con control de brazo para prevenir que el oponente mantenga el control durante la torsión.",
+    "recursosAdicionales": [
+      "Video: Escape de Seatbelt Grip - BJJ Basics",
+      "Seminario: Técnicas de Escape en Back Control - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde Reverse Half Guard",
+    "posicionInicial": "Reverse Half Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Version estándar (pierna controlada invertida)",
+    "contexto": "Cuando estás en Reverse Half Guard con una pierna controlada invertida y el oponente intenta mantener su postura.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la guardia abierta o la montada.",
+    "descripcion": "Desde la Reverse Half Guard versión estándar, controla la pierna del oponente con ambas manos. Utiliza tus caderas para crear desequilibrio empujando hacia un lado mientras giras tu cuerpo hacia el otro. Levanta con tus piernas y tira con tus brazos para realizar el barrido, pasando a una posición dominante en el suelo.",
+    "variante": "Barrido básico con agarre en la manga para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Básico desde Reverse Half Guard - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Reverse Half Guard",
+    "posicionInicial": "Reverse Half Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Version estándar (pierna controlada invertida)",
+    "contexto": "Cuando tienes control del brazo del oponente desde la Reverse Half Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde la Reverse Half Guard versión estándar, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Reverse Half Guard con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Reverse Half Guard - BJJ Techniques",
+      "DVD: Sumisiones desde Reverse Half Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Reverse Half Guard",
+    "posicionInicial": "Reverse Half Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Version estándar (pierna controlada invertida)",
+    "contexto": "Cuando tienes control de un brazo del oponente desde la Reverse Half Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo mediante la técnica de Armbar.",
+    "descripcion": "Desde la Reverse Half Guard versión estándar, engancha el brazo del oponente y utiliza tus piernas para aislar su brazo. Gira tu cuerpo hacia el lado opuesto mientras estiras tus piernas para aplicar presión en el codo del oponente, ejecutando la palanca y obligando a la sumisión.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Reverse Half Guard - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Reverse Half Guard",
+    "posicionInicial": "Reverse Half Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Version estándar (pierna controlada invertida)",
+    "contexto": "Cuando estás atrapado en la Reverse Half Guard y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de la Reverse Half Guard para evitar ser controlado o sometido por el oponente.",
+    "descripcion": "Desde la Reverse Half Guard versión estándar, utiliza técnicas de empuje y tirón para liberar tus piernas del control del oponente. Gira tu cuerpo hacia un lado mientras mantienes una postura baja para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Reverse Half Guard con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Reverse Half Guard - BJJ Basics",
+      "Seminario: Técnicas de Escape en Reverse Half Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Reverse Half Guard",
+    "posicionInicial": "Reverse Half Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Version estándar (pierna controlada invertida)",
+    "contexto": "Cuando estás en la Reverse Half Guard y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde la Reverse Half Guard para lograr una posición dominante como Side Control o Montada.",
+    "descripcion": "Desde la Reverse Half Guard versión estándar, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior como Side Control o Montada.",
+    "variante": "Pasaje de Reverse Half Guard con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje desde Reverse Half Guard - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape Sit-Out desde Tortuga Compacta",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga compacta (defensiva)",
+    "contexto": "Cuando estás en la posición de Tortuga compacta y el oponente intenta controlarte desde arriba.",
+    "objetivoPrincipal": "Escapar de la posición de Tortuga compacta para recuperar una guardia más segura.",
+    "descripcion": "Desde la Tortuga compacta, engancha uno de los brazos del oponente y gira tu cuerpo hacia ese lado. Usa tus caderas para crear espacio y empuja con tu brazo libre para liberarte del control. Establece una guardia abierta o guardia cerrada para mejorar tu posición.",
+    "variante": "Escape Sit-Out con bloqueo de pierna para mayor efectividad y control.",
+    "recursosAdicionales": [
+      "Video: Escape Sit-Out desde Tortuga - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Granby Roll desde Tortuga Compacta",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga compacta (defensiva)",
+    "contexto": "Cuando estás en la posición de Tortuga compacta y el oponente intenta mantener el control superior.",
+    "objetivoPrincipal": "Escapar de la Tortuga compacta mediante un movimiento de rollo para evitar el control del oponente.",
+    "descripcion": "Desde la Tortuga compacta, baja tu peso hacia el oponente mientras giras tu cuerpo hacia un lado. Realiza un rollo sobre tu hombro opuesto, pasando por debajo de las piernas del oponente. Establece una guardia abierta o una posición más defensiva después del rollo.",
+    "variante": "Granby Roll con agarre en las mangas para mayor control durante el escape.",
+    "recursosAdicionales": [
+      "Video: Granby Roll desde Tortuga Compacta - BJJ Techniques",
+      "DVD: Técnicas de Escape Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sit-Out a Guardia desde Tortuga Compacta",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga compacta (defensiva)",
+    "contexto": "Cuando estás en la posición de Tortuga compacta y necesitas transicionar a una guardia más segura.",
+    "objetivoPrincipal": "Escapar de la Tortuga compacta y establecer una guardia cerrada o abierta para mejorar la posición.",
+    "descripcion": "Desde la Tortuga compacta, engancha uno de los brazos del oponente y gira tu cuerpo hacia ese lado. Extiende la pierna opuesta hacia atrás mientras empujas con tu brazo libre para crear espacio. Saca tu pierna controlada y establece una guardia cerrada o abierta para obtener una mejor posición defensiva.",
+    "variante": "Sit-Out con control de cinturón para mayor estabilidad durante la transición.",
+    "recursosAdicionales": [
+      "Video: Sit-Out a Guardia desde Tortuga - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape con Contragolpe desde Tortuga Compacta",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Defensa de Sumisiones",
+    "subtipoPosicionInicial": "Tortuga compacta (defensiva)",
+    "contexto": "Cuando estás en la posición de Tortuga compacta y el oponente intenta aplicar una sumisión.",
+    "objetivoPrincipal": "Defenderse de las sumisiones del oponente y escapar de la posición de Tortuga compacta.",
+    "descripcion": "Desde la Tortuga compacta, detecta el intento de sumisión del oponente y bloquea el brazo o pierna que está siendo atacada. Realiza un movimiento rápido de sit-out o granby roll para crear espacio y escapar de la posición. Transiciona a una guardia más segura o a una posición defensiva.",
+    "variante": "Escape con contragolpe utilizando agarre en la manga para mayor control durante la defensa.",
+    "recursosAdicionales": [
+      "Video: Escape con Contragolpe desde Tortuga Compacta - BJJ Techniques",
+      "Seminario: Defensa de Sumisiones en Tortuga - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Transición a Media Guardia desde Tortuga Compacta",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Tortuga compacta (defensiva)",
+    "contexto": "Cuando estás en la posición de Tortuga compacta y deseas mejorar tu posición pasando a Media Guardia.",
+    "objetivoPrincipal": "Mejorar la posición transicionando de Tortuga compacta a Media Guardia para obtener un control más seguro.",
+    "descripcion": "Desde la Tortuga compacta, gira tu cuerpo hacia un lado mientras controlas el brazo del oponente. Baja tu peso y enganche tu pierna opuesta alrededor de la pierna del oponente para establecer una Media Guardia. Mantén el control de la postura del oponente mientras estableces una posición defensiva más segura.",
+    "variante": "Transición a Media Guardia con agarre en la manga para mayor control durante el pase.",
+    "recursosAdicionales": [
+      "Video: Transición a Media Guardia desde Tortuga Compacta - BJJ Techniques",
+      "DVD: Progresiones de Posición Defensiva - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape Sit-Out desde Tortuga en Transición",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga en transición (scramble)",
+    "contexto": "Cuando estás en la posición de Tortuga en transición y el oponente intenta controlar tu postura o aplicar una sumisión.",
+    "objetivoPrincipal": "Escapar de la posición de Tortuga en transición para recuperar una guardia más segura o una posición neutral.",
+    "descripcion": "Desde la Tortuga en transición, engancha uno de los brazos del oponente y gira tu cuerpo hacia ese lado mientras empujas con la cadera. Realiza un movimiento de sit-out para crear espacio y liberar tu brazo. Establece una guardia abierta o cerrada para mejorar tu posición defensiva.",
+    "variante": "Escape Sit-Out con bloqueo de pierna para mayor efectividad y control durante la transición.",
+    "recursosAdicionales": [
+      "Video: Escape Sit-Out desde Tortuga en Transición - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Granby Roll desde Tortuga en Transición",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga en transición (scramble)",
+    "contexto": "Cuando estás en la posición de Tortuga en transición y el oponente intenta mantener el control superior o aplicar una sumisión.",
+    "objetivoPrincipal": "Escapar de la Tortuga en transición mediante un movimiento de rollo para evitar el control del oponente.",
+    "descripcion": "Desde la Tortuga en transición, baja tu peso hacia el oponente mientras giras tu cuerpo hacia un lado. Realiza un rollo sobre tu hombro opuesto, pasando por debajo de las piernas del oponente. Establece una guardia abierta o una posición más defensiva después del rollo para mejorar tu situación.",
+    "variante": "Granby Roll con agarre en las mangas para mayor control durante el escape.",
+    "recursosAdicionales": [
+      "Video: Granby Roll desde Tortuga en Transición - BJJ Techniques",
+      "DVD: Técnicas de Escape Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sit-Out a Guardia desde Tortuga en Transición",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tortuga en transición (scramble)",
+    "contexto": "Cuando estás en la posición de Tortuga en transición y necesitas transicionar a una guardia más segura.",
+    "objetivoPrincipal": "Escapar de la Tortuga en transición y establecer una guardia cerrada o abierta para mejorar tu posición defensiva.",
+    "descripcion": "Desde la Tortuga en transición, engancha uno de los brazos del oponente y gira tu cuerpo hacia ese lado. Extiende la pierna opuesta hacia atrás mientras empujas con tu brazo libre para crear espacio. Saca tu pierna controlada y establece una guardia cerrada o abierta para obtener una mejor posición defensiva.",
+    "variante": "Sit-Out con control de cinturón para mayor estabilidad durante la transición.",
+    "recursosAdicionales": [
+      "Video: Sit-Out a Guardia desde Tortuga en Transición - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape con Contragolpe desde Tortuga en Transición",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Defensa de Sumisiones",
+    "subtipoPosicionInicial": "Tortuga en transición (scramble)",
+    "contexto": "Cuando estás en la posición de Tortuga en transición y el oponente intenta aplicar una sumisión.",
+    "objetivoPrincipal": "Defenderse de las sumisiones del oponente y escapar de la posición de Tortuga en transición.",
+    "descripcion": "Desde la Tortuga en transición, detecta el intento de sumisión del oponente y bloquea el brazo o pierna que está siendo atacada. Realiza un movimiento rápido de sit-out o granby roll para crear espacio y escapar de la posición. Transiciona a una guardia más segura o a una posición defensiva.",
+    "variante": "Escape con contragolpe utilizando agarre en la manga para mayor control durante la defensa.",
+    "recursosAdicionales": [
+      "Video: Escape con Contragolpe desde Tortuga en Transición - BJJ Techniques",
+      "Seminario: Defensa de Sumisiones en Tortuga - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Transición a Media Guardia desde Tortuga en Transición",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Tortuga en transición (scramble)",
+    "contexto": "Cuando estás en la posición de Tortuga en transición y deseas mejorar tu posición pasando a Media Guardia.",
+    "objetivoPrincipal": "Mejorar la posición transicionando de Tortuga en transición a Media Guardia para obtener un control más seguro.",
+    "descripcion": "Desde la Tortuga en transición, gira tu cuerpo hacia un lado mientras controlas el brazo del oponente. Baja tu peso y engancha tu pierna opuesta alrededor de la pierna del oponente para establecer una Media Guardia. Mantén el control de la postura del oponente mientras estableces una posición defensiva más segura.",
+    "variante": "Transición a Media Guardia con agarre en la manga para mayor control durante el pase.",
+    "recursosAdicionales": [
+      "Video: Transición a Media Guardia desde Tortuga en Transición - BJJ Techniques",
+      "DVD: Progresiones de Posición Defensiva - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape Sit-Out desde Standing Turtle",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Standing Turtle (cuando el rival está de pie)",
+    "contexto": "Cuando estás en la posición de Standing Turtle y el oponente intenta controlar tu postura o aplicar una sumisión.",
+    "objetivoPrincipal": "Escapar de la posición de Standing Turtle para recuperar una guardia más segura o una posición neutral.",
+    "descripcion": "Desde la posición de Standing Turtle, engancha uno de los brazos del oponente y gira tu cuerpo hacia ese lado mientras empujas con la cadera. Realiza un movimiento de sit-out para crear espacio y liberar tu brazo. Establece una guardia abierta o cerrada para mejorar tu posición defensiva.",
+    "variante": "Escape Sit-Out con bloqueo de pierna para mayor efectividad y control durante la transición.",
+    "recursosAdicionales": [
+      "Video: Escape Sit-Out desde Standing Turtle - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Granby Roll desde Standing Turtle",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Standing Turtle (cuando el rival está de pie)",
+    "contexto": "Cuando estás en la posición de Standing Turtle y el oponente intenta mantener el control superior.",
+    "objetivoPrincipal": "Escapar de la Standing Turtle mediante un movimiento de rollo para evitar el control del oponente.",
+    "descripcion": "Desde Standing Turtle, baja tu peso hacia el oponente mientras giras tu cuerpo hacia un lado. Realiza un rollo sobre tu hombro opuesto, pasando por debajo de las piernas del oponente. Establece una guardia abierta o una posición más defensiva después del rollo para mejorar tu situación.",
+    "variante": "Granby Roll con agarre en las mangas para mayor control durante el escape.",
+    "recursosAdicionales": [
+      "Video: Granby Roll desde Standing Turtle - BJJ Techniques",
+      "DVD: Técnicas de Escape Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Shrimp a Guardia desde Standing Turtle",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Standing Turtle (cuando el rival está de pie)",
+    "contexto": "Cuando estás en la posición de Standing Turtle y necesitas transicionar a una guardia más segura.",
+    "objetivoPrincipal": "Escapar de la Standing Turtle y establecer una guardia cerrada o abierta para mejorar tu posición defensiva.",
+    "descripcion": "Desde Standing Turtle, utiliza una técnica de hip escape (shrimp) para mover tus caderas hacia un lado. Desplaza tu peso y extiende una pierna para crear espacio. Saca tu pierna controlada y establece una guardia cerrada o abierta para obtener una mejor posición defensiva.",
+    "variante": "Shrimp con agarre en la manga para mayor control durante la transición.",
+    "recursosAdicionales": [
+      "Video: Shrimp a Guardia desde Standing Turtle - BJJ Fundamentals",
+      "DVD: Técnicas de Escape para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Bridge and Roll desde Standing Turtle",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Standing Turtle (cuando el rival está de pie)",
+    "contexto": "Cuando estás en la posición de Standing Turtle y necesitas escapar mediante un movimiento de puenteo y rollo.",
+    "objetivoPrincipal": "Escapar de Standing Turtle pasando a una guardia más dominante o una posición neutral.",
+    "descripcion": "Desde Standing Turtle, utiliza una técnica de puenteo para empujar al oponente hacia atrás. Gira tu cuerpo hacia un lado mientras haces un rollo sobre tu hombro, pasando por debajo del control del oponente. Establece una guardia abierta o una posición más defensiva después del rollo para mejorar tu situación.",
+    "variante": "Bridge and Roll con agarre en el cinturón para mayor control durante el escape.",
+    "recursosAdicionales": [
+      "Video: Bridge and Roll desde Standing Turtle - BJJ Techniques",
+      "DVD: Técnicas de Escape Avanzadas - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Arm Reversal desde Standing Turtle",
+    "posicionInicial": "Turtle (Tortuga)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Inversion",
+    "subtipoPosicionInicial": "Standing Turtle (cuando el rival está de pie)",
+    "contexto": "Cuando estás en la posición de Standing Turtle y el oponente está controlando tus brazos, buscando revertir la posición.",
+    "objetivoPrincipal": "Revertir la posición para obtener una posición de control superior o recuperar la guardia.",
+    "descripcion": "Desde Standing Turtle, engancha uno de los brazos del oponente y usa tus piernas para desequilibrar su postura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo del oponente hacia ti. Usa un movimiento rápido de bridge y roll para cambiar la posición, estableciendo una guardia abierta o una posición de control superior.",
+    "variante": "Arm Reversal con agarre en la manga para mayor control y efectividad durante la reversión.",
+    "recursosAdicionales": [
+      "Video: Arm Reversal desde Standing Turtle - BJJ Techniques",
+      "DVD: Técnicas de Reversión para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido de Single Leg desde Quarter Guard",
+    "posicionInicial": "Quarter Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Atrapar solo el pie del oponente",
+    "contexto": "Cuando estás en Quarter Guard y tienes control solo del pie del oponente, intentando desequilibrarlo para realizar un barrido.",
+    "objetivoPrincipal": "Invertir la posición para obtener una guardia más dominante o una posición de control superior.",
+    "descripcion": "Desde Quarter Guard, agarra el pie del oponente con ambas manos. Utiliza tus caderas para crear un desequilibrio empujando hacia un lado mientras giras tu cuerpo hacia el otro. Levanta el pie controlado y tira con tus brazos para realizar el barrido, pasando a una posición dominante en el suelo.",
+    "variante": "Barrido de Single Leg con agarre en la manga para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido de Single Leg desde Quarter Guard - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Quarter Guard",
+    "posicionInicial": "Quarter Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Atrapar solo el pie del oponente",
+    "contexto": "Cuando tienes control de un brazo del oponente desde Quarter Guard y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de Kimura.",
+    "descripcion": "Desde Quarter Guard, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo para asegurar una figura de Kimura. Gira tu cuerpo hacia el lado opuesto mientras tiras del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Quarter Guard con control de torso para evitar que el oponente escape.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Quarter Guard - BJJ Techniques",
+      "DVD: Sumisiones desde Quarter Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina desde Quarter Guard",
+    "posicionInicial": "Quarter Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Atrapar solo el pie del oponente",
+    "contexto": "Cuando el oponente intenta pasar tu Quarter Guard y expone su cuello mientras controlas solo su pie.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde Quarter Guard, pasa tu brazo por encima del cuello del oponente mientras mantienes el control de su pie. Ajusta tu posición para cerrar la guillotina con tus piernas y aplica presión hacia abajo para estrangular al oponente, forzándolo a la sumisión.",
+    "variante": "Guillotina desde Quarter Guard con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Guillotina desde Quarter Guard - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Quarter Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Quarter Guard",
+    "posicionInicial": "Quarter Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Atrapar solo el pie del oponente",
+    "contexto": "Cuando estás en Quarter Guard y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde Quarter Guard para lograr una posición dominante como Side Control o Montada.",
+    "descripcion": "Desde Quarter Guard, controla el pie del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de su pie, estableciendo una posición de control superior como Side Control o Montada.",
+    "variante": "Pasaje de Quarter Guard con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje desde Quarter Guard - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Quarter Guard",
+    "posicionInicial": "Quarter Guard (Media guardia invertida)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Atrapar solo el pie del oponente",
+    "contexto": "Cuando estás atrapado en Quarter Guard y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de Quarter Guard para evitar ser controlado o sometido por el oponente.",
+    "descripcion": "Desde Quarter Guard, utiliza técnicas de empuje y tirón para liberar tu pierna del control del oponente. Gira tu cuerpo hacia un lado mientras mantienes una postura baja para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Quarter Guard con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Quarter Guard - BJJ Basics",
+      "Seminario: Técnicas de Escape en Quarter Guard - Gracie Jiu-Jitsu"
+    ]
   }
+
 ]
 
 

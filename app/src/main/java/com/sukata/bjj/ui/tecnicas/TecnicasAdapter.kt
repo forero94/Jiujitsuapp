@@ -16,14 +16,14 @@ class TecnicasAdapter(
     private var tecnicas = listOf<TecnicaEntity>()
 
     fun submitList(newList: List<TecnicaEntity>) {
-        Log.d("TecnicasAdapter", "Actualizando lista con ${newList.size} elementos")
+
         tecnicas = newList
         notifyDataSetChanged()
     }
 
     override fun onBindViewHolder(holder: TecnicaViewHolder, position: Int) {
         val tecnica = tecnicas[position]
-        Log.d("TecnicasAdapter", "Vinculando técnica en posición $position: $tecnica")
+
         holder.bind(tecnica)
     }
 

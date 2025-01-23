@@ -1,0 +1,1593 @@
+[
+  //JSON MEDIA GUARDIA
+  {
+    "id": 0,
+    "nombre": "Reguard a Guardia Cerrada desde Media Guardia Tradicional",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Re-Guard",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando el oponente está intentando pasar tu media guardia y no mantiene la presión adecuada sobre tus piernas, dejándote espacio para recuperar la guardia cerrada.",
+    "objetivoPrincipal": "Restablecer una guardia más segura y neutralizar el intento de pase del rival.",
+    "descripcion": "1. Mantén una pierna atrapada del rival y usa tu brazo inferior para controlar su torso o cadera.\n2. Con la pierna libre, busca rodear la cintura del oponente o su cadera, creando espacio.\n3. Desliza tu cuerpo y encaja la otra pierna alrededor de su torso para cerrar la guardia.\n4. Ajusta tu guardia y controla la postura del rival para evitar que se levante.",
+    "variante": "Si el rival reacciona empujando tu rodilla, puedes transicionar a una guardia abierta (De la Riva o Collar and Sleeve).",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Bernardo Faria - The Faria Sweep System' (BJJ Fanatics).",
+      "2. 'Saulo Ribeiro: Jiu-Jitsu University - Half Guard Escapes'.",
+      "3. 'Jason Scully - Half Guard Retention Details' (Grapplers Guide)."
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde Media Guardia Tradicional (Old School Sweep)",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando el rival está semiarrodillado intentando presionar tu media guardia y descuida su equilibrio en la pierna atrapada.",
+    "objetivoPrincipal": "Romper la base del oponente y quedar en posición superior (side control o media guardia arriba).",
+    "descripcion": "1. Controla la pierna atrapada del rival envolviéndola fuertemente con tus piernas y manteniendo el bloqueo.\n2. Haz un underhook profundo en el brazo o torso del oponente, acercándote a su cadera.\n3. Desliza tu cuerpo ligeramente hacia atrás, arrastrando su pierna atrapada con tus piernas.\n4. Rueda hacia adelante y hacia arriba, empujando la pierna del rival para volcarlo.\n5. Sube, quedando en posición de control lateral o en media guardia dominante.",
+    "variante": "Si el rival defiende retirando la rodilla, puedes transicionar a un single-leg (tomando su pierna con ambas manos).",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Bernardo Faria - Old School Sweep' (YouTube).",
+      "2. 'Stephan Kesting: Half Guard Sweeps' (GrappleArts).",
+      "3. 'Saulo Ribeiro: Jiu-Jitsu University - Half Guard Section'."
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Recuperar Guardia desde Knee Shield (Media Guardia)",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Re-Guard",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando usas tu rodilla (knee shield) para mantener la distancia ante un rival que quiere pasar presionando el torso.",
+    "objetivoPrincipal": "Crear espacio y recuperar guardia cerrada o abierta, evitando el pase.",
+    "descripcion": "1. Con tu knee shield bloqueando su pecho o hombro, empuja ligeramente para crear espacio.\n2. Utiliza tu brazo superior para controlar su brazo o collar (en gi) o su cuello (no-gi).\n3. Libera la pierna atrapada moviéndola hacia atrás, encajándola alrededor de la cintura del rival.\n4. Junta tus piernas para cerrar la guardia o formar una guardia abierta segura.\n5. Ajusta agarres en mangas y solapas (en gi) o engancha la cabeza/brazos (no-gi).",
+    "variante": "Si el rival insiste en acercarse, bascula tu cuerpo y entra en una X-Guard básica.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Lucas Leite - Coyote Half Guard (Knee Shield Variations)' (BJJ Fanatics).",
+      "2. 'Knee Shield Basics' - Kurt Osiander Move of the Week (YouTube).",
+      "3. 'Ricardo de la Riva: Defensive Strategies in Half Guard'."
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep a Montada desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando el rival está de rodillas y no controla tu pantorrilla que ejerce la Z-Guard, dándote la oportunidad de desequilibrarlo lateralmente.",
+    "objetivoPrincipal": "Voltear al oponente usando tu pierna en Z-Guard para empujarlo y quedar en montada.",
+    "descripcion": "1. Desde Z-Guard, apoya tu pantorrilla en el torso o cadera del rival.\n2. Con tu brazo inferior, busca un underhook o controla su cinturón (en gi).\n3. Gira tu cuerpo hacia la pierna que está en Z, empujando con la pantorrilla y jalando su brazo/torso.\n4. El rival se desequilibra; sigue el movimiento y sube la pierna libre por encima de su cadera o muslo.\n5. Termina en montada controlando su postura con las manos o codos.",
+    "variante": "Si el rival defiende cerrándose, cambia a un reemplazo de guardia (reguard) o pasa a Deep Half si te hace presión hacia tu espalda.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Z-Guard Sweeps' - John Danaher Leg Lock System, Sección de Half Guard (BJJ Fanatics).",
+      "2. 'Keenan Cornelius - Guard Retention & Z-Guard Tips' (YouTube).",
+      "3. 'Robson Moura: Z-Guard Offensive Concepts'.",
+      "4. https://youtu.be/U1YLLtJQyLM"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Entrada a Deep Half Guard para Barrido",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando el oponente te presiona desde arriba y deja un hueco entre sus piernas para que te deslices por debajo de su cadera.",
+    "objetivoPrincipal": "Ingresar a una posición Deep Half Guard para desequilibrar al rival y barrerlo con facilidad.",
+    "descripcion": "1. Afloja la presión del rival sujetando su brazo o torso con un underhook profundo.\n2. Mete la cabeza y hombros por debajo de su entrepierna, abrazando su muslo interior.\n3. Ajusta tu media guardia alrededor de su pierna para fijar su base.\n4. Usa la pierna libre y tus brazos para voltear al rival, tirando de su muslo hacia ti.\n5. Sube para lograr una posición dominante, típicamente side control o montada parcial.",
+    "variante": "Si el rival retrocede su pierna, puedes transicionar a single-leg X o regresar a media guardia tradicional.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Ryan Hall - The Deep Half Guard' (Instructional).",
+      "2. 'Jeff Glover - Deep Half Guard (BJJ Fanatics)'.",
+      "3. 'Bernardo Faria - Deep Half Guard Fundamentals'."
+    ]
+  },
+    {
+      "id": 0,
+      "nombre": "Coyote Sweep desde Media Guardia Tradicional",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "AZUL",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Tradicional",
+      "contexto": "Se da cuando el rival ejerce presión con su pecho o torso, pero deja la pierna adelantada atrapada y no bloquea tu underhook profundo.",
+      "objetivoPrincipal": "Volcar al oponente hacia adelante o de costado y quedar arriba en control lateral o media guardia dominante.",
+      "descripcion": "1. Asegura la pierna del rival con tus piernas, manteniendo la media guardia.\n2. Realiza un underhook profundo en su torso, a la altura de la cintura o espalda baja.\n3. Desliza tu cadera ligeramente hacia atrás y gira el torso para ponerte casi de costado.\n4. Empuja con tus piernas y hala con el underhook, generando un desequilibrio en la base del rival.\n5. Sigue el movimiento y sube para quedar en posición de control (side control o media guardia arriba).",
+      "variante": "Si el rival gira la cadera para resistir el sweep, puedes transicionar a un single-leg o tomar la espalda si logras aislar su torso.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Lucas Leite - Coyote Half Guard Series' (BJJ Fanatics)",
+        "2. 'Bernardo Faria - Pressure Half Guard Sweeps'",
+        "3. 'Saulo Ribeiro - Half Guard Advanced Concepts (Jiu-Jitsu University)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Back Take desde Knee Shield con Underhook",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "AZUL",
+      "tipoTecnica": "Progresion",
+      "subtipoPosicionInicial": "Knee Shield",
+      "contexto": "Ocurre cuando mantienes una rodilla (knee shield) bloqueando el pecho del rival y logras un underhook que te permite rodear su torso.",
+      "objetivoPrincipal": "Obtener la espalda del oponente para un mejor control y opciones de finalización.",
+      "descripcion": "1. Con el knee shield activo, mantén al rival a distancia. Usa la mano superior para buscar un underhook profundo a la altura de su axila o espalda.\n2. Empuja con la rodilla para que su torso gire ligeramente y se abra espacio.\n3. Mete la cabeza debajo de su brazo libre, apuntando tu pecho hacia su espalda.\n4. Desliza tus caderas hacia su costado posterior, colocando el primer gancho con tu pierna interna.\n5. Gira completamente, colocando el segundo gancho o cerrando body triangle, y asegúrate de conseguir un seatbelt grip para el control total.",
+      "variante": "Si el rival niega el underhook, puedes convertir la posición a una Z-Guard y buscar un barrido lateral.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Knee Shield to Back Take - Keenan Cornelius (YouTube)'",
+        "2. 'Marcelo Garcia - Underhook Magic from Half Guard (MGinAction)'",
+        "3. 'Cobrinha Charles - Half Guard Transitions to the Back'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Electric Chair desde Media Guardia Tradicional (Lockdown)",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "AZUL",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Tradicional",
+      "contexto": "Cuando utilizas el 'lockdown' en tu media guardia y el rival se mantiene sobre ti sin controlar su pierna libre, dejando espacio para forzar el estiramiento de su pierna y aductores.",
+      "objetivoPrincipal": "Ejercer presión y hiperextensión en la ingle y la parte interna del muslo (sumisión), o barrer al oponente si se desequilibra.",
+      "descripcion": "1. Engancha la pierna atrapada del rival con tus pies, formando el 'lockdown' (cruzando tu empeine bajo su tobillo y enganchando su otro pie).\n2. Con un underhook en el costado de su torso, estira la pierna atrapada al máximo jalando con la cadera.\n3. Siente el momento en que el oponente sufra la tensión en la ingle. Si no tapea, aprovecha para desequilibrarlo.\n4. Con la pierna estirada del rival, empuja con tu underhook y gira tu torso para barrerlo.\n5. Finaliza en top position o mantén la presión para la sumisión si no defiende correctamente.",
+      "variante": "Si el rival se endereza demasiado, puedes usar esa fuerza para empujarlo y quedarte arriba en media guardia o side control.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Eddie Bravo - 10th Planet Lockdown System'",
+        "2. 'Scott Sonnon - Electric Chair Breakdown'",
+        "3. 'Brandon McCaghren - Lockdown Half Guard Details (BJJ Fanatics)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Shaolin Sweep desde Z-Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "AZUL",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Z-Guard",
+      "contexto": "Cuando el rival presiona tu Z-Guard con sus dos rodillas en el tatami y mantiene su tronco adelantado, dejando su base vulnerable a un empuje diagonal.",
+      "objetivoPrincipal": "Hacer perder el equilibrio al rival y terminar en montada o side control.",
+      "descripcion": "1. Usa tu pierna en Z (pantorrilla bloqueando su torso) para crear una barrera y controlar la distancia.\n2. Con el brazo inferior, asegúrate de tener un buen frame o underhook, dependiendo de la posición de su brazo.\n3. Gira tu cuerpo hacia la pierna que forma la Z, empujando con la pantorrilla y jalando el brazo o torso del rival.\n4. El oponente se desequilibra hacia adelante o lateralmente; sigue el empuje y avanza tu rodilla libre para ganar la montada o side control.\n5. Ajusta la posición superior inmediatamente, controlando su postura con agarres o presión de hombro.",
+      "variante": "Si el rival intenta retroceder su cadera para evitar el sweep, puedes transicionar a un reguard o incluso entrar en un deep half guard si buscas un ángulo distinto.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Vitor Shaolin: Z-Guard Sweep Series'",
+        "2. 'John Danaher - Half Guard Movements (BJJ Fanatics)'",
+        "3. 'Romulo Barral: Z-Guard Offensive Transitions'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Waiter Sweep desde Deep Half Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "AZUL",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Deep Half",
+      "contexto": "Sucede cuando logras meterte debajo de las caderas del rival y aislar su pierna, pero éste permanece de pie o semiflexionado, dejando el tobillo accesible.",
+      "objetivoPrincipal": "Levantar y voltear al oponente para quedar en control dominante (generalmente en una posición de pase).",
+      "descripcion": "1. Desde deep half, abraza el muslo del rival con ambos brazos, colocando tu cabeza cerca de su pantorrilla.\n2. Usa tu pierna libre para empujar su rodilla o cadera, creando inestabilidad.\n3. Toma su tobillo con una de tus manos y eleva su pierna como si la ‘cargaras en una bandeja’ (Waiter).\n4. Gira tu torso y empuja hacia atrás, haciendo que el rival caiga de espaldas o de lado.\n5. Continúa el movimiento para subir en posición de pase o side control.",
+      "variante": "Si el rival se arrodilla y bloquea tu pierna, puedes transicionar a un clásico deep half sweep halando su rodilla o pivotar a un back take si hay espacio.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Ryan Hall - The Deep Half Guard' (BJJ Instructional)",
+        "2. 'Bernardo Faria - The Waiter Sweep Details (YouTube)'",
+        "3. 'Jeff Glover - Deep Half Secrets (BJJ Fanatics)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Gordo Sweep desde Media Guardia Tradicional",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "VIOLETA",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Tradicional",
+      "contexto": "Cuando el rival intenta presionar tu media guardia sin controlar tu pierna externa, dándote oportunidad de girar la cadera para barrerlo.",
+      "objetivoPrincipal": "Voltear al oponente aprovechando la rotación de cadera y el control de su rodilla o pantorrilla.",
+      "descripcion": "1. Asegura la pierna del rival con tus piernas y mantén un fuerte control de su rodilla. \n2. Crea un pequeño ángulo con tu cuerpo, desplazándote levemente hacia atrás para ganar espacio. \n3. Utiliza un underhook profundo o controla su cintura para acercarte más. \n4. Gira tus caderas, impulsándote con la pierna libre y empujando su rodilla atrapada hacia el exterior. \n5. Acompaña el desequilibrio, subiendo al final para quedar en side control o media guardia arriba.",
+      "variante": "Si el rival se resiste y saca la rodilla, transiciona rápidamente a un single-leg o busca la espalda si gira en exceso.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Roberto “Gordo” Correa: Half Guard Sweeps (BJJ Library)'",
+        "2. 'Bernardo Faria - Advanced Half Guard Techniques'",
+        "3. 'Saulo Ribeiro - Half Guard Chapter (Jiu-Jitsu University)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Tornado Sweep desde Media Guardia",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "VIOLETA",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Tradicional",
+      "contexto": "Cuando estás en media guardia y el oponente presiona hacia adelante, dejándote espacio para pasar la pierna bajo su torso e iniciar una rotación invertida.",
+      "objetivoPrincipal": "Sorprender al rival con una rotación explosiva que te permita barrerlo y quedar arriba.",
+      "descripcion": "1. Captura la pierna del rival y baja tu hombro al tatami, apuntando tu cabeza en dirección opuesta a su cuerpo.\n2. Mete tu pierna libre por debajo de la axila rival o cerca de su hombro, preparándote para girar en sentido inverso. \n3. Genera momento giratorio (tornado) moviendo tus caderas y jalando su pierna atrapada. \n4. Continúa la rotación hasta que el oponente se desequilibre y caiga. \n5. Termina en una posición superior (side control o montada parcial).",
+      "variante": "Si el rival gira para defender, puedes transicionar a una guardia invertida o intentar un back take si expone su espalda.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Cyborg Abreu - Tornado Guard Sweeps (YouTube)'",
+        "2. 'Jeff Glover - Inverted Half Guard Transitions'",
+        "3. 'André Galvão - Advanced Sweeps DVD (BJJ Fanatics)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Kimura Trap desde Knee Shield a Back Take",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "VIOLETA",
+      "tipoTecnica": "Progresion",
+      "subtipoPosicionInicial": "Knee Shield",
+      "contexto": "Se presenta cuando mantienes el knee shield y el rival adelanta un brazo para aplastarlo o controlar tu torso, exponiendo su muñeca y hombro.",
+      "objetivoPrincipal": "Aislar el brazo en kimura grip y transicionar a la espalda si el oponente defiende.",
+      "descripcion": "1. Establece un knee shield activo, impidiendo que el rival se acerque. \n2. Cuando extienda su brazo para presionar tu rodilla, atrapa su muñeca con ambas manos y forma un kimura grip. \n3. Retrae el knee shield y gira tu torso, forzando el brazo hacia arriba. \n4. Si el rival se defiende girando su cuerpo, deslízate hacia atrás y coloca el primer gancho en su cintura. \n5. Toma el segundo gancho o un body triangle y asegura un seatbelt grip para controlar la espalda.",
+      "variante": "Si no logras tomar la espalda, mantén la kimura trap para barrer o transicionar a un armbar.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Danaher Kimura Trap System (BJJ Fanatics)'",
+        "2. 'Lucas Leite - Knee Shield to Kimura Control (YouTube)'",
+        "3. 'Marcelo Garcia - Techniques for Back Takes from Half Guard'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Reverse Half Guard Back Take",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "VIOLETA",
+      "tipoTecnica": "Progresion",
+      "subtipoPosicionInicial": "Versión estándar (pierna controlada invertida)",
+      "contexto": "Aparece cuando rotas tu cuerpo debajo del rival, quedando en half guard invertida, y el oponente no controla tu torso ni tu cabeza con suficiente presión.",
+      "objetivoPrincipal": "Girar detrás del contrincante y capturar su espalda usando tu control de la pierna invertida.",
+      "descripcion": "1. Desde la media guardia tradicional, rota tu cuerpo para encarar las piernas del rival, atrapando su pierna en posición invertida. \n2. Usa tus brazos para frenar sus intentos de presionar tu torso o cabeza. \n3. Busca asomar tu cabeza y hombros detrás de su cadera, llegando a la línea de su espalda. \n4. Abre tus piernas y engancha una de ellas como primer gancho sobre su muslo. \n5. Termina de girar y coloca el segundo gancho, cerrando seatbelt o over-under grip para controlar la espalda.",
+      "variante": "Si el rival se defiende sentado, aprovecha para empujarlo hacia adelante y forzar un roll que te facilite la toma de espalda.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Robson Moura - Reverse Half Guard to Back Transitions'",
+        "2. 'Rafael Mendes - Inverted Half Guard Concepts (AOJ YouTube)'",
+        "3. 'Cobrinha Charles - Back Takes from Reverse Half Guard'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Deep Half Guard Backdoor Sweep",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "VIOLETA",
+      "tipoTecnica": "Barridos",
+      "subtipoPosicionInicial": "Deep Half",
+      "contexto": "Se da cuando el oponente trata de presionar tu Deep Half, pero su rodilla libre queda adelantada, permitiendo que te cueles por su espalda a ras de piso.",
+      "objetivoPrincipal": "Barrer hacia atrás (backdoor) haciendo que el rival caiga hacia delante mientras emerges por su espalda.",
+      "descripcion": "1. Desde Deep Half, controla la pierna del rival con tus brazos, manteniendo la cabeza pegada a su muslo interno. \n2. Chequea la posición de su rodilla libre: si está adelantada, hay espacio para que deslices tu cadera detrás de él. \n3. Empuja suavemente su cadera, inclinándote hacia tu espalda para salir por debajo de su torso. \n4. Extiende tus piernas para proyectarlo hacia delante o al costado mientras te incorporas detrás de él. \n5. Finaliza en una posición de control posterior, listo para tomar la espalda o llegar a side control.",
+      "variante": "Si el rival se gira, puedes enganchar un gancho y convertirlo en un back take o cambiar a un knee tap si se incorpora demasiado.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Ryan Hall - Backdoor Sweeps from Deep Half (Instructional)'",
+        "2. 'Jeff Glover - Advanced Deep Half Strategies (BJJ Fanatics)'",
+        "3. 'Jake Mackenzie - Deep Half Transitions to the Back'"
+      ]
+    },
+  {
+    "id": 0,
+    "nombre": "Kneebar desde Media Guardia Tradicional",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "MARRON",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando el rival se enfoca en aplastar tu torso dejando su pierna libre extendida o apoyada en el tatami, exponiendo la rodilla.",
+    "objetivoPrincipal": "Hiperextender la rodilla atrapando la pierna del rival y girando tu cadera en el ángulo correcto.",
+    "descripcion": "1. Engancha la pierna del rival con tus piernas, impidiendo que la retire fácilmente.\n2. Desplaza tu cadera alejándote del rival para poder abrazar su pierna por debajo.\n3. Controla el tobillo contra tu pecho y gira la cadera hacia afuera, elevando su pierna.\n4. Cierra tus rodillas para inmovilizar su muslo y empuja tu pelvis adelante para forzar la rodilla.\n5. Ajusta el agarre de tobillo y mantén la rodilla bloqueada para concretar la sumisión.",
+    "variante": "Si el rival flexiona la rodilla para defender, puedes alternar a un sweep o transicionar a una Omoplata si estira los brazos para postear.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'John Danaher - Leg Lock System (BJJ Fanatics)'",
+      "2. 'Bernardo Faria - Half Guard & Kneebar Concepts'",
+      "3. 'Dean Lister - Leg Lock Seminar (YouTube)'"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Rolling Back Take desde Z-Guard Avanzada",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "MARRON",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando el rival se inclina hacia delante intentando aplastar tu Z-Guard y deja espacio detrás de su cadera.",
+    "objetivoPrincipal": "Acceder a la espalda del rival generando un roll o giro invertido sobre sus caderas.",
+    "descripcion": "1. Desde Z-Guard, mantén tu pantorrilla en el torso o cadera del rival para crear distancia.\n2. Con tu brazo inferior, realiza un frame sólido o un underhook para frenar la presión.\n3. Cede la rodilla de Z-Guard ligeramente y gira tu cadera, asomando la cabeza y hombros debajo de su pecho o axila.\n4. Ejecuta un roll controlado hacia atrás (inverso), llevando tu pecho hacia su espalda.\n5. Coloca un gancho con tu pierna interior y, si es posible, el segundo gancho, finalizando en un seatbelt grip para la toma de espalda.",
+    "variante": "Si el rival se defiende bajando su cadera, puedes cambiar a un coyote sweep o volver a media guardia tradicional.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Cobrinha Charles - Rolling Back Takes (BJJ Library)'",
+      "2. 'Mendes Bros - Z-Guard to Back Control Series (AOJ)'",
+      "3. 'Keenan Cornelius - Advanced Guard Transitions (YouTube)'"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Lapela Sweep desde Knee Shield",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "MARRON",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando usas la solapa del propio oponente (lapel) para atrapar su pierna o su brazo y así aumentar el control en knee shield.",
+    "objetivoPrincipal": "Desestabilizar al rival jalando su lapel y empujando la rodilla, para llegar a montada o side control.",
+    "descripcion": "1. Desenrolla la solapa del rival (lapel) más cercana a ti y pásala por debajo de su brazo o entre sus piernas.\n2. Mantén tu knee shield activo en su torso y sujeta la lapel con firmeza, bloqueando su cadera o muslo.\n3. Tira de la lapel hacia ti mientras empujas con la rodilla (knee shield) para comprometer su equilibrio.\n4. El rival caerá hacia el lado o adelante; sigue el movimiento e introdúcete para quedar arriba.\n5. Ajusta control lateral o avanza a montada, asegurando que mantienes la solapa tensa para neutralizar su defensa.",
+    "variante": "Si el rival suelta la lapel y reacciona rápido, puedes pasar a un back take usando el espacio que generó al soltar su defensa.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Lucas Leite - Lapel Half Guard Attacks'",
+      "2. 'Keenan Cornelius - Lapel Encyclopedia (BJJ Fanatics)'",
+      "3. 'Cobrinha - Knee Shield to Lapel Sweep Concepts'"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Omoplata desde Half Guard Invertida (Reverse Half Guard)",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "MARRON",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Versión estándar (pierna controlada invertida)",
+    "contexto": "Cuando rotas tu cuerpo bajo la cadera del rival y su brazo queda a la altura de tu cadera, exponiendo el hombro para omoplata.",
+    "objetivoPrincipal": "Atrapar el brazo del rival con las piernas y forzar la omoplata ejerciendo presión en el hombro.",
+    "descripcion": "1. Gira tu torso en reverse half guard, atrapando la pierna del rival y quedando parcialmente de costado.\n2. Con tus manos, sujeta la muñeca o manga del brazo que se acerca a tu cintura.\n3. Pasa la pierna libre por encima de su brazo, ajustando con tu pantorrilla en su hombro.\n4. Extiende las piernas y rota tu cadera para aplicar presión sobre el hombro y codo.\n5. Mantén el control de su torso con la otra pierna o brazo para que no ruede o se levante.",
+    "variante": "Si el rival se levanta, transiciona a un sweep hacia adelante o cambia a un kimura trap si tienes el agarre correcto.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Robson Moura - Reverse Half Guard Omoplata Series'",
+      "2. 'Braulio Estima - Inverted Half Guard Attacks'",
+      "3. 'Rafael Mendes - Advanced Omoplata Concepts (AOJ)'"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Ghost Escape a Back Take desde Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "MARRON",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando el oponente presiona fuertemente tu torso en half guard, pero deja un espacio cerca de tu cabeza y su codo, permitiendo escabullirte (ghost escape) hacia su espalda.",
+    "objetivoPrincipal": "Liberarte de la presión en half guard y sorprender al rival tomando su espalda.",
+    "descripcion": "1. Protege tu cuello y rostro ante la presión, y busca un hueco entre su codo y la lona.\n2. Gira tu torso bruscamente hacia el lado opuesto, pasando tu cabeza por debajo de su brazo.\n3. Deslízate detrás de su hombro, manteniendo la pierna del rival aún atrapada con tu half guard.\n4. Transfiere tu peso hacia su espalda: mete un gancho interno y libera la otra pierna.\n5. Ajusta un seatbelt grip y coloca el segundo gancho, quedando en back control con un ángulo de ataque superior.",
+    "variante": "Si el rival alza el codo para defender, puedes transicionar a un arm drag y tomar la espalda por el otro lado.",
+    "recursosAdicionales": [
+      "Fuentes consultadas:",
+      "1. 'Tim Spriggs - Ghost Escape Concepts (YouTube)'",
+      "2. 'Firas Zahabi - Half Guard Back Takes and Escapes'",
+      "3. 'Vagner Rocha - Pressure Passing and Ghost Escape Drills'"
+    ]
+  },
+
+    {
+      "id": 0,
+      "nombre": "Cross Arm Triangle desde Media Guardia Profunda",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "NEGRO",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Deep Half",
+      "contexto": "Se presenta cuando logras deep half guard y el rival presiona con su brazo cerca de tu cuello, exponiendo la opción de atraparle el brazo y cabeza al salir de la posición.",
+      "objetivoPrincipal": "Ejecutar un estrangulamiento por compresión lateral de las arterias carótidas (arm triangle).",
+      "descripcion": "1. Desde deep half, bloquea la pierna del rival con tus brazos y piernas. \n2. Cuando notes que su brazo queda cerca de tu cuello, desliza tu torso hacia fuera, emergiendo detrás de su hombro. \n3. Libera tu pierna atrapada y envuelve su cabeza y brazo en un grip tipo arm triangle. \n4. Cierra la media guardia por detrás o transiciona a montada para estabilizar. \n5. Ajusta el estrangulamiento apretando tus brazos y bajando tu pecho sobre su hombro.",
+      "variante": "Si el rival se defiende con su brazo libre, cambia de dirección y presiona para llegar a un brabo choke o un back take si se gira.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Bernardo Faria - Deep Half to Arm Triangle (BJJ Fanatics)'",
+        "2. 'Rafael Lovato Jr. - Arm Triangle Variations from Half Guard'",
+        "3. 'Ryan Hall - Transitioning Submissions from Deep Half'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Inverted Kneebar desde Media Guardia Invertida",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "NEGRO",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Versión estándar (pierna controlada invertida)",
+      "contexto": "Ocurre cuando giras completamente debajo del rival, aislando su pierna en un ángulo invertido, y el oponente intenta estirar o extraer su pierna para pasar.",
+      "objetivoPrincipal": "Forzar hiperextensión de la rodilla en dirección inversa a la kneebar clásica.",
+      "descripcion": "1. Pivota tu cuerpo hacia la pierna del rival, quedando en half guard invertida con tu torso mirando sus pies. \n2. Asegura su tobillo contra tu pecho y rodea su muslo con tus piernas, sellando la rodilla para que no rote. \n3. Eleva tus caderas mientras jalas del tobillo hacia tu pecho, extendiendo la rodilla en sentido opuesto. \n4. Mantén los pies cruzados o en gancho para impedir su escape. \n5. Aplica la presión progresivamente para lograr la sumisión.",
+      "variante": "Si el rival flexiona la rodilla para defender, cambia a un heel hook en no-gi o transiciona a un barrido si rotas su cadera.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Dean Lister - Inverted Kneebar Variations (Seminario)'",
+        "2. 'John Danaher - Leg Locks: Enter the System (BJJ Fanatics)'",
+        "3. 'Craig Jones - Advanced Lower Body Attacks'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Lapel Trap Leg Drag desde Knee Shield",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "NEGRO",
+      "tipoTecnica": "Pasaje",
+      "subtipoPosicionInicial": "Knee Shield",
+      "contexto": "Surge al usar la solapa del oponente para inmovilizar su brazo o pierna mientras mantienes un knee shield, abriendo espacio para un leg drag que te lleve a side control o a la espalda.",
+      "objetivoPrincipal": "Pasar la guardia del rival con un leg drag aprovechando la inmovilización generada por la solapa.",
+      "descripcion": "1. Desenrolla la lapel del rival (lado más cercano) y atrápala pasando debajo de su rodilla o sobre su brazo, según la posición. \n2. Mantén tu knee shield para controlar la distancia y evitar que te presione. \n3. Tira de la lapel sujetándola con firmeza mientras desplazas la pierna del rival hacia un lateral (leg drag). \n4. Avanza tu cuerpo para superar sus defensas, dirigiéndote a side control o buscando la espalda si gira. \n5. Ajusta la posición final, manteniendo la presión con la lapel si deseas continuar controlando su cintura o torso.",
+      "variante": "Si el rival intenta recuperar guardia, aplica el back step y transiciona a una montada rápida o a un back take si se vuelve de costado.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Keenan Cornelius - Lapel Encyclopedia: Half Guard Passes'",
+        "2. 'Lucas Leite - Knee Shield to Leg Drag Series'",
+        "3. 'André Galvão - Leg Drag Concepts for Gi Passing'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Twister Hook desde Z-Guard",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "NEGRO",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Z-Guard",
+      "contexto": "Cuando el rival se apoya demasiado con su espalda expuesta al inclinarse para romper tu Z-Guard, permitiendo la inserción de un gancho twister y la torsión del tronco.",
+      "objetivoPrincipal": "Ejercer una torsión espinal (twister) al controlar la cadera y la cabeza del rival en direcciones opuestas.",
+      "descripcion": "1. Desde Z-Guard, observa si el rival deja su torso libre y su cadera sobresaliente. \n2. Engancha tu pierna alrededor de su cadera o pierna trasera, creando un ‘twister hook’ al cruzar tus pies y controlar su cadera. \n3. Pasa el brazo superior por detrás de su cabeza o cuello, sujetando firmemente su barbilla o hombro. \n4. Arquea tu espalda y gira tu torso, llevando su cabeza en sentido opuesto al de su cadera. \n5. Incrementa la presión gradualmente hasta que el rival se rinda o se exponga para un barrido.",
+      "variante": "Si no buscas la finalización del twister, puedes usar el gancho para forzar un back take o transicionar a una crucifix invertida.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Eddie Bravo - Twister Techniques (10th Planet)'",
+        "2. 'Baret Yoshida - Twister Hook Entries'",
+        "3. 'Ben Eddy - Rubber Guard & Twister Paths'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Estima Lock desde Media Guardia Abierta",
+      "posicionInicial": "Half Guard (Media Guardia)",
+      "dificultad": "NEGRO",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Tradicional",
+      "contexto": "Cuando el rival intenta deslizar su pie libre para escapar la media guardia sin proteger su empeine, dejándolo expuesto a un ataque rápido de tobillo (Estima Lock).",
+      "objetivoPrincipal": "Forzar una compresión sobre el empeine y el tobillo del rival para la sumisión inmediata.",
+      "descripcion": "1. Nota que el rival saca su pie libre entre tus piernas o por encima, tratando de escapar. \n2. Enrosca tu antebrazo alrededor de su empeine, colocando tu mano libre en la base del talón. \n3. Aprieta el empeine contra tu antebrazo, doblando el pie hacia adentro (la punta del pie hacia la pantorrilla del rival). \n4. Gira tu cuerpo en la misma dirección para aumentar la presión sobre el tobillo y empeine. \n5. Ajusta con cuidado, pues el Estima Lock puede generar lesiones graves si se aplica bruscamente.",
+      "variante": "Si el rival se libera rotando su tobillo, puedes transicionar a un straight ankle lock o usar el impulso para un barrido.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Victor Estima - Estima Lock Seminars'",
+        "2. 'John Danaher - Leg Lock Innovations (BJJ Fanatics)'",
+        "3. 'Gordon Ryan - No-Gi Foot Lock Systems'"
+      ]
+    },
+
+
+  // JSON LEGLOCKS
+
+
+    {
+      "id": 0,
+      "nombre": "Straight Ankle Lock desde X-Guard Básica",
+      "posicionInicial": "X-Guard",
+      "dificultad": "MARRON",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "X-Guard básica",
+      "contexto": "Surge cuando el oponente mantiene su pierna adelantada en tu X-Guard, sin controlar bien tus ganchos, exponiendo el tobillo para la sumisión.",
+      "objetivoPrincipal": "Forzar la hiperextensión del tobillo y el tendón de Aquiles para inducir la rendición.",
+      "descripcion": "1. Ajusta tu X-Guard rodeando la pierna del rival con ambas piernas, manteniendo un gancho interno en su muslo.\n2. Toma el tobillo del oponente con ambas manos y sitúalo en tu axila, cerrando el antebrazo sobre su tendón de Aquiles.\n3. Desplaza tus caderas hacia atrás para tensionar la articulación y arquea la espalda para aumentar la presión.\n4. Controla la rodilla del rival con tus piernas para que no gire ni escape.\n5. Aprieta gradualmente hasta que el rival tapee o se vea obligado a exponer otra defensa.",
+      "variante": "Si el rival dobla la rodilla para escapar, transiciona a un barrido tomando su centro de gravedad y subiendo a top.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Marcelo Garcia - X-Guard Basics'",
+        "2. 'Bernardo Faria - Advanced Ankle Lock Mechanics'",
+        "3. 'John Danaher - Leg Locks: Enter the System (BJJ Fanatics)'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Toe Hold desde 50/50 Guard",
+      "posicionInicial": "X-Guard",
+      "dificultad": "MARRON",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Ocurre cuando ambos competidores enredan sus piernas en 50/50 y el rival mantiene su pie libre cerca de tu tronco, sin proteger su empeine.",
+      "objetivoPrincipal": "Torsionar el pie del rival llevando los dedos hacia el glúteo, comprometiendo la articulación del tobillo y empeine.",
+      "descripcion": "1. Desde 50/50, localiza el pie expuesto del oponente, enganchando sus dedos con una mano.\n2. Pasa la otra mano por detrás de su tobillo para formar una figura de cuatro en tus antebrazos.\n3. Gira la punta del pie hacia su nalga, usando tus caderas y piernas para inmovilizar su rodilla.\n4. Incrementa la torsión de manera progresiva para forzar la sumisión.\n5. Evita que rote la cadera ajustando tu gancho en su muslo o bloqueando con tu pierna libre.",
+      "variante": "Si el rival estira la pierna, cambia a un straight ankle lock o busca un back take si abre demasiado su base.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Ryan Hall - 50/50 Heel Hook & Toe Hold Concepts'",
+        "2. 'Lachlan Giles - 50/50 Traps (BJJ Fanatics)'",
+        "3. 'Cobrinha Charles - Toe Holds from 50/50'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Kneebar desde Single-Leg X (Ashi Garami)",
+      "posicionInicial": "X-Guard",
+      "dificultad": "MARRON",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "Single-Leg X (Ashi Garami)",
+      "contexto": "Aparece cuando el rival se endereza sobre tu Single-Leg X y libera en exceso su rodilla, permitiendo aislarla para la hiperextensión.",
+      "objetivoPrincipal": "Hiperextender la rodilla atrapando el tobillo y bloqueando la cadera con tus piernas.",
+      "descripcion": "1. Controla la pierna del rival en Single-Leg X, con un pie en su cadera y el otro rodeando su muslo interno.\n2. Siente si su rodilla se sobreextiende al intentar zafarse. Ajusta tu agarre tomando su tobillo.\n3. Desliza tus caderas hacia abajo y ubica su rodilla en tu vientre o pecho.\n4. Junta tus rodillas para bloquear su muslo y empuja tus caderas al frente, creando la palanca de la kneebar.\n5. Aplica fuerza progresiva, siempre cuidando la articulación del rival.",
+      "variante": "Si el rival dobla la rodilla para evitar la kneebar, transiciona a un heel hook en no-gi o reingresa a X-Guard básica para un barrido.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Bernardo Faria - Single-Leg X to Kneebar Transitions'",
+        "2. 'John Danaher - Ashi Garami Systems (BJJ Fanatics)'",
+        "3. 'Dean Lister - Leg Lock Foundations'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Estima Lock desde 50/50 Guard",
+      "posicionInicial": "X-Guard",
+      "dificultad": "MARRON",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "50/50 Guard",
+      "contexto": "Sucede cuando el rival saca el pie para huir de un toe hold o ankle lock y mantiene el empeine muy cercano a tu antebrazo.",
+      "objetivoPrincipal": "Comprimir el empeine y tobillo con un agarre invertido, forzando el rival a rendirse rápidamente.",
+      "descripcion": "1. Nota que el oponente retrae el pie en 50/50 para eludir otras sumisiones. Enrosca tu antebrazo sobre su empeine.\n2. Ajusta la mano libre en su talón o parte lateral del pie, creando una palanca tipo guillotina para el tobillo.\n3. Presiona el empeine en dirección de su pantorrilla, girando tus caderas hacia el interior.\n4. Asegura que no pueda girar la rodilla, bloqueando su muslo con tu pierna libre.\n5. Continúa la compresión hasta la rendición; es un ataque rápido y explosivo.",
+      "variante": "Si el rival vuelve a estirar el pie, reconecta un toe hold o un straight ankle lock según la posición de su empeine.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Victor Estima - The Estima Lock Seminar'",
+        "2. 'Lachlan Giles - 50/50 Finishes (BJJ Fanatics)'",
+        "3. 'Craig Jones - No-Gi Leg Locks Advanced'"
+      ]
+    },
+    {
+      "id": 0,
+      "nombre": "Calf Slicer (Biceps Femoris Slicer) desde X-Guard Básica",
+      "posicionInicial": "X-Guard",
+      "dificultad": "MARRON",
+      "tipoTecnica": "Finalizacion",
+      "subtipoPosicionInicial": "X-Guard básica",
+      "contexto": "Cuando capturas la pantorrilla del rival al salir de X-Guard y doblas su pierna, ejerciendo compresión contra la tibia.",
+      "objetivoPrincipal": "Comprimir el músculo de la pantorrilla (gemelo) contra el hueso, causando dolor o lesión para forzar la sumisión.",
+      "descripcion": "1. Desde X-Guard, engancha la pierna del rival y observa si la rodilla queda doblada al intentar escapar.\n2. Mete tu antebrazo por debajo de su pantorrilla mientras cierras tus piernas sobre su muslo, sellando la salida.\n3. Tira del pie del rival hacia sus glúteos y empuja tu antebrazo en sentido contrario, creando la compresión.\n4. Ajusta la presión progresivamente y controla la cadera del oponente para que no gire ni libere la pierna.\n5. Aplica fuerza con técnica, ya que el calf slicer puede ser súbito y muy doloroso.",
+      "variante": "Si el rival estira la pierna, busca el straight ankle lock o transiciona a un toe hold si sientes el empeine disponible.",
+      "recursosAdicionales": [
+        "Fuentes consultadas:",
+        "1. 'Keenan Cornelius - Calf Slicers from X-Guard (Seminario)'",
+        "2. 'John Danaher - Leg Lock Adaptations (BJJ Fanatics)'",
+        "3. 'Rubens Charles Cobrinha - Advanced Guard Compression Attacks'"
+      ]
+    },
+  {
+    "id": 0,
+    "nombre": "Derribo de Single Leg",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente está de pie y mantiene una postura neutral.",
+    "objetivoPrincipal": "Takedown utilizando una pierna del oponente para desequilibrarlo.",
+    "descripcion": "Desde una postura de pie neutral, agarra una de las piernas del oponente, baja tu centro de gravedad y empuja con tu hombro para derribarlo al suelo.",
+    "variante": "Derribo de Single Leg con giro para controlar la espalda.",
+    "recursosAdicionales": [
+      "Video: Introducción al Single Leg Takedown - BJJ Basics",
+      "DVD: Técnicas de Takedown para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Double Leg",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente está de pie con ambas piernas disponibles.",
+    "objetivoPrincipal": "Realizar un takedown controlando ambas piernas del oponente.",
+    "descripcion": "Desde una postura neutral, baja tu centro de gravedad, envuelve ambas piernas del oponente con las tuyas y empuja hacia adelante para llevarlo al suelo.",
+    "variante": "Derribo de Double Leg con control de cabeza para evitar el contrataque.",
+    "recursosAdicionales": [
+      "Video: Double Leg Takedown para Principiantes - BJJ Training",
+      "Seminario: Técnicas de Derribos Básicos - Alliance BJJ"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Palanca de Brazo desde de Pie",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando tienes control sobre el brazo del oponente mientras están de pie.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el brazo.",
+    "descripcion": "Agarra el brazo del oponente, gira tu cuerpo para alinear tu cadera con la suya y aplica presión hacia atrás sobre el codo para ejecutar la palanca.",
+    "variante": "Palanca de brazo con agarre invertido para mayor control.",
+    "recursosAdicionales": [
+      "Video: Armbar desde de Pie - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina de Pie",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente intenta un derribo y expone su cuello.",
+    "objetivoPrincipal": "Aplicar una sumisión forzando al oponente a rendirse por estrangulación.",
+    "descripcion": "Envuelve el cuello del oponente con tu brazo mientras controlas una de sus piernas, luego baja tu cuerpo para aplicar presión hacia abajo y cerrar la guillotina.",
+    "variante": "Guillotina invertida para oponentes que intentan derribarte hacia atrás.",
+    "recursosAdicionales": [
+      "Video: Guillotina Básica - BJJ Techniques",
+      "Seminario: Estrangulaciones desde de Pie - Renzo Gracie"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pase de Pierna hacia Adentro",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Transición desde una posición de pie a una posición de control en el suelo.",
+    "objetivoPrincipal": "Moverse de una posición de pie a controlar al oponente en el suelo.",
+    "descripcion": "Después de derribar al oponente, avanza tu pierna hacia adentro entre las suyas para pasar a la media guardia o control lateral.",
+    "variante": "Pase de pierna con control de torso para evitar la resistencia del oponente.",
+    "recursosAdicionales": [
+      "Video: Pase de Pierna Básico - BJJ for Beginners",
+      "DVD: Transiciones de Pie a Suelo - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "O Goshi (Gran Lanzamiento de Cadera)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando ambos competidores mantienen un agarre estándar y buscan desequilibrar al oponente hacia adelante.",
+    "objetivoPrincipal": "Lanzar al oponente al suelo utilizando la cadera como punto de apoyo.",
+    "descripcion": "Desde una postura neutral, agarra el cinturón o la manga del oponente con una mano y su mismo cinturón con la otra. Gira tu cadera debajo de la del oponente y levántalo ligeramente antes de tirar hacia adelante, utilizando tu cadera para desequilibrarlo y lanzarlo al suelo.",
+    "variante": "O Goshi con agarre invertido para mayor control durante el lanzamiento.",
+    "recursosAdicionales": [
+      "Video: O Goshi para Principiantes - Judo Básico",
+      "DVD: Técnicas Fundamentales de Judo - Kodokan"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Seoi Nage (Lanzamiento de Hombro)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente adelanta su cuerpo y busca controlar tus brazos.",
+    "objetivoPrincipal": "Proyectar al oponente sobre tu hombro mediante el uso de tus brazos y cadera.",
+    "descripcion": "Agárrate la manga del oponente con una mano y el otro brazo por detrás de su espalda. Gira tu cuerpo y coloca tu cadera en frente de la suya mientras tiras de su brazo hacia arriba, usando tu cadera como punto de apoyo para lanzar al oponente sobre tu hombro.",
+    "variante": "Seoi Nage desde agarre de reverso para adaptarse a diferentes posiciones de agarre.",
+    "recursosAdicionales": [
+      "Video: Seoi Nage Básico - Técnicas de Judo",
+      "Seminario: Lanzamientos de Hombro - Judo para Principiantes"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kouchi Gari (Reapido Interno Menor)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente adelanta una pierna durante el intercambio de agarres.",
+    "objetivoPrincipal": "Reaprear la pierna interna del oponente para desequilibrarlo y derribarlo al suelo.",
+    "descripcion": "Manteniendo un agarre firme, observa la posición de las piernas del oponente. Rápidamente, reapea su pierna interna con tu pie mientras tiras de su torso hacia adelante, causando que pierda el equilibrio y caiga.",
+    "variante": "Kouchi Gari con pivote para cambiar la dirección del derribo según la resistencia del oponente.",
+    "recursosAdicionales": [
+      "Video: Kouchi Gari para Principiantes - Judo Paso a Paso",
+      "DVD: Técnicas de Reapido Interno - Kodokan Judo"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Ouchi Gari (Reapido Interno Mayor)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente coloca una pierna hacia adelante mientras mantiene el agarre.",
+    "objetivoPrincipal": "Reaprear la pierna interna del oponente con mayor fuerza para un derribo efectivo.",
+    "descripcion": "Con un agarre fuerte, baja tu centro de gravedad y estira una de tus piernas hacia atrás para reaprear la pierna interna del oponente. Simultáneamente, tira de su torso hacia adelante para desequilibrarlo y proyectarlo al suelo.",
+    "variante": "Ouchi Gari con agarre de doble manga para aumentar la efectividad del derribo.",
+    "recursosAdicionales": [
+      "Video: Ouchi Gari Básico - Técnicas de Judo para Novatos",
+      "Seminario: Reapidos Internos Mayores - Judo Fundamental"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Harai Goshi (Lanzamiento de Cadera con Barrido)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente intenta avanzar y colocar su peso sobre ti.",
+    "objetivoPrincipal": "Barrrear la pierna del oponente mientras utilizas tu cadera para lanzarlo al suelo.",
+    "descripcion": "Agárrate la manga y el cinturón del oponente. Gira tu cuerpo y coloca tu cadera frente a la de él. Mientras tiras hacia arriba con los agarres, barrrea su pierna con la tuya y empuja con la cadera para desequilibrarlo y lanzarlo.",
+    "variante": "Harai Goshi con agarre de reverso para adaptarse a diferentes posiciones de agarre.",
+    "recursosAdicionales": [
+      "Video: Harai Goshi para Principiantes - Judo Paso a Paso",
+      "DVD: Técnicas de Lanzamiento con Cadera - Kodokan Judo"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Single Leg",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente mantiene una postura neutral de pie.",
+    "objetivoPrincipal": "Capturar una pierna del oponente para desequilibrarlo y llevarlo al suelo.",
+    "descripcion": "Desde una postura de pie neutral, baja tu nivel de cadera, envuelve una de las piernas del oponente con ambas manos y tira hacia ti mientras empujas con la otra mano en el torso para derribarlo.",
+    "variante": "Derribo de Single Leg con cambio de dirección para mayor control.",
+    "recursosAdicionales": [
+      "Video: Single Leg Takedown para Principiantes - Wrestling Basics",
+      "DVD: Técnicas de Wrestling No-Gi - USA Wrestling"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Double Leg",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente adelanta ambas piernas intentando un avance.",
+    "objetivoPrincipal": "Capturar ambas piernas del oponente para desequilibrarlo y llevarlo al suelo.",
+    "descripcion": "Desde una postura neutral, baja tu centro de gravedad, envuelve ambas piernas del oponente con los brazos, asegura un buen agarre y tira hacia ti mientras empujas con el torso para derribarlo.",
+    "variante": "Derribo de Double Leg con control de la cabeza para evitar contragolpes.",
+    "recursosAdicionales": [
+      "Video: Double Leg Takedown Básico - Wrestling Techniques",
+      "Seminario: Takedowns No-Gi para Principiantes - Elite Wrestling"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de High Crotch",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente mantiene una postura alta y controlada.",
+    "objetivoPrincipal": "Capturar una pierna en posición alta para desequilibrar y derribar al oponente.",
+    "descripcion": "Desde una postura de pie neutral, inserta tu brazo entre las piernas del oponente y agarra su muslo alto. Gira tu cuerpo hacia un lado, levanta la pierna capturada y tira hacia ti mientras empujas con el otro brazo para derribarlo.",
+    "variante": "High Crotch con giro para controlar la posición después del derribo.",
+    "recursosAdicionales": [
+      "Video: High Crotch Takedown - No-Gi Wrestling Basics",
+      "DVD: Técnicas Avanzadas de Takedowns No-Gi - Wrestling Pro Series"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Carrera del Bombero (Fireman's Carry)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente está de pie con una postura abierta.",
+    "objetivoPrincipal": "Levantar y cargar al oponente sobre tus hombros para derribarlo al suelo.",
+    "descripcion": "Agarra una muñeca del oponente y coloca tu cabeza debajo de su brazo. Usa tu pierna para enganchar la pierna opuesta del oponente, levanta con fuerza y empuja para derribarlo al suelo desde una posición elevada.",
+    "variante": "Fireman's Carry con control de la espalda para evitar escapes.",
+    "recursosAdicionales": [
+      "Video: Fireman's Carry para Principiantes - Wrestling Fundamentals",
+      "Seminario: Técnicas de Lanzamiento No-Gi - World Wrestling Federation"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo por Bloqueo de Cadera (Body Lock Takedown)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente está cerca y permite un agarre corporal.",
+    "objetivoPrincipal": "Capturar el cuerpo del oponente para desequilibrarlo y derribarlo al suelo.",
+    "descripcion": "Envuelve tus brazos alrededor del torso del oponente, asegurando un agarre firme. Gira tu cuerpo hacia un lado mientras empujas con las caderas y tiras hacia abajo para llevar al oponente al suelo.",
+    "variante": "Body Lock Takedown con empuje de cadera para mayor efectividad.",
+    "recursosAdicionales": [
+      "Video: Body Lock Takedown - No-Gi Wrestling Techniques",
+      "DVD: Estrategias de Takedowns No-Gi - Pro Wrestling Series"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Ancla",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente mantiene una postura erguida y estable.",
+    "objetivoPrincipal": "Romper el equilibrio del oponente y derribarlo al suelo controlando su torso.",
+    "descripcion": "Agarra el cuello y el brazo del oponente, inclina tu cuerpo hacia adelante mientras tiras de sus brazos hacia ti y empujas con tus caderas para desequilibrarlo y llevarlo al suelo.",
+    "variante": "Derribo de Ancla con giro para controlar la posición post-derribo.",
+    "recursosAdicionales": [
+      "Video: Derribo de Ancla para Principiantes - Técnicas Básicas",
+      "DVD: Fundamentos de Takedowns - Grappling Essentials"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Gancho de Pierna",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente extiende una pierna hacia adelante durante el intercambio.",
+    "objetivoPrincipal": "Capturar y enganchar la pierna extendida del oponente para derribarlo al suelo.",
+    "descripcion": "Mientras el oponente extiende una pierna, engancha tu pie alrededor de la parte interna de su pierna, tira hacia ti y empuja con tu cuerpo para desequilibrarlo y llevarlo al suelo.",
+    "variante": "Derribo de Gancho de Pierna con control de cadera para mantener la posición.",
+    "recursosAdicionales": [
+      "Video: Gancho de Pierna Básico - Wrestling para Principiantes",
+      "DVD: Técnicas de Pierna en Takedowns - Grappling Pro Series"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Clavada (Clinch Takedown)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando ambos competidores están en un intercambio cercano de agarres.",
+    "objetivoPrincipal": "Controlar la postura del oponente desde el clinch para derribarlo al suelo.",
+    "descripcion": "Entra al clinch agarrando el cuello y los brazos del oponente, controla su postura empujando con los codos y utiliza tus piernas para desequilibrarlo hacia atrás, derribándolo al suelo.",
+    "variante": "Clinch Takedown con uso de caderas para mayor potencia en el derribo.",
+    "recursosAdicionales": [
+      "Video: Clinch Takedown para Principiantes - Técnicas de Grappling",
+      "DVD: Estrategias de Clinch y Takedowns - Wrestling Fundamentals"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Pájaro (Bird Takedown)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente intenta avanzar con rapidez y pierde la base.",
+    "objetivoPrincipal": "Usar la velocidad del oponente en su contra para derribarlo al suelo.",
+    "descripcion": "Aprovecha el impulso del oponente cuando avanza rápidamente, engancha una pierna mientras tiras de su torso hacia atrás, utilizando tu propio movimiento para desequilibrarlo y derribarlo.",
+    "variante": "Bird Takedown con cambio de agarre para adaptar el derribo según la resistencia del oponente.",
+    "recursosAdicionales": [
+      "Video: Bird Takedown Básico - Técnicas de Takedowns",
+      "DVD: Takedowns Rápidos y Eficientes - Wrestling Essentials"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Derribo de Cadera Alta (High Hip Takedown)",
+    "posicionInicial": "De pie (Standing)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Derribos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente mantiene una postura erguida y comienza a descender su centro de gravedad.",
+    "objetivoPrincipal": "Usar la cadera para elevar y derribar al oponente de manera controlada.",
+    "descripcion": "Agarra el cinturón o la ropa del oponente, coloca tu cadera alta contra la suya, levanta ligeramente mientras tiras hacia ti para desequilibrarlo y derribarlo al suelo utilizando tu cadera como punto de apoyo.",
+    "variante": "High Hip Takedown con control de torso para mantener la posición post-derribo.",
+    "recursosAdicionales": [
+      "Video: High Hip Takedown para Principiantes - Técnicas de Wrestling",
+      "DVD: Control de Cadera en Takedowns - Grappling Pro Series"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Alta",
+    "contexto": "Cuando tienes control de un brazo del oponente mientras estás en la guardia cerrada.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo para extenderlo completamente.",
+    "descripcion": "Desde la guardia cerrada, engancha el brazo del oponente, cruza tus piernas sobre su espalda y gira tu cuerpo para alinear tu cadera con su brazo. Aplica presión hacia abajo en el brazo para ejecutar la palanca y obligar a la sumisión.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar Básico desde Guardia Cerrada - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Alta",
+    "contexto": "Cuando el oponente intenta pasar tu guardia y expone uno de sus brazos y cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde la guardia cerrada, controla el brazo y cuello del oponente, cruza una pierna sobre su hombro y la otra detrás de su cabeza. Ajusta tus piernas para formar un triángulo y aprieta para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo Básico desde Guardia Cerrada - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Alta",
+    "contexto": "Cuando el oponente intenta un pase de guardia y deja su cuello expuesto.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde la guardia cerrada, pasa tu brazo por encima del cuello del oponente, agarra tu propio agarre para mantener el control y tira hacia arriba mientras cierras la guillotina con tus piernas, aplicando presión en el cuello para la sumisión.",
+    "variante": "Guillotina con agarre cruzado para mayor control y efectividad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Guillotina Básica desde Guardia Cerrada - BJJ Techniques",
+      "DVD: Estrangulaciones para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Scissor desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Alta",
+    "contexto": "Cuando el oponente está controlando tu guardia pero puedes desestabilizar su postura.",
+    "objetivoPrincipal": "Invertir la posición para pasar de guardia cerrada a una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia cerrada, abre tus caderas y separa las piernas en forma de tijera. Coloca un pie en la cadera del oponente y el otro pie en su hombro. Usa un movimiento de tijera para levantar y barrer al oponente hacia un lado, pasando a una posición de control.",
+    "variante": "Scissor Sweep con agarre en el kimura para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Scissor Sweep desde Guardia Cerrada - BJJ Basics",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Alta",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras estás en guardia cerrada.",
+    "objetivoPrincipal": "Aplicar una palanca en el hombro del oponente para forzar una sumisión.",
+    "descripcion": "Desde la guardia cerrada, agarra el brazo del oponente y lleva tu brazo por debajo de su brazo, asegurando una figura de kimura. Gira tu cuerpo hacia el lado opuesto y tira del brazo del oponente hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de muñeca para evitar que el oponente escape o contragolpee.",
+    "recursosAdicionales": [
+      "Video: Kimura Básica desde Guardia Cerrada - BJJ Techniques",
+      "Seminario: Técnicas de Sumisión con Kimura - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Guardia Cerrada Baja",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Baja",
+    "contexto": "Cuando tienes control de un brazo del oponente desde una posición de guardia cerrada baja.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo para extenderlo completamente.",
+    "descripcion": "Desde la guardia cerrada baja, engancha el brazo del oponente y coloca tu pierna sobre su espalda. Gira tu cuerpo hacia el lado opuesto mientras estiras tu pierna para aplicar presión en el codo del oponente, forzándolo a la sumisión.",
+    "variante": "Armbar con control de muñeca para mayor estabilidad durante la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar Básico desde Guardia Cerrada Baja - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Cadera Baja",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Baja",
+    "contexto": "Cuando el oponente está controlando tu guardia pero puedes desestabilizar su postura desde una posición baja.",
+    "objetivoPrincipal": "Invertir la posición para pasar de guardia cerrada baja a una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia cerrada baja, controla las caderas del oponente y utiliza un movimiento de cadera hacia un lado mientras levantas con tus piernas para barrer al oponente hacia ese lado, pasando a una posición de montada.",
+    "variante": "Sweep de cadera baja con agarre de manga para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Cadera Baja - BJJ Basics",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Guardia Cerrada Baja",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Baja",
+    "contexto": "Cuando el oponente intenta pasar tu guardia baja y expone uno de sus brazos y cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde la guardia cerrada baja, controla el brazo y el cuello del oponente. Coloca una pierna sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo y aprieta para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo con pie enganchado para mayor presión en la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo Básico desde Guardia Cerrada Baja - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Guardia Cerrada Baja",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Baja",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde una posición de guardia cerrada baja.",
+    "objetivoPrincipal": "Aplicar una palanca en el hombro del oponente para forzar una sumisión.",
+    "descripcion": "Desde la guardia cerrada baja, agarra el brazo del oponente y lleva tu brazo por debajo de su brazo, asegurando una figura de kimura. Gira tu cuerpo hacia el lado opuesto y tira del brazo del oponente hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de muñeca para evitar que el oponente escape o contragolpee.",
+    "recursosAdicionales": [
+      "Video: Kimura Básica desde Guardia Cerrada Baja - BJJ Techniques",
+      "Seminario: Técnicas de Sumisión con Kimura - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Scissor Sweep desde Guardia Cerrada Baja",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Baja",
+    "contexto": "Cuando el oponente está controlando tu guardia baja pero puedes desestabilizar su postura.",
+    "objetivoPrincipal": "Invertir la posición para pasar de guardia cerrada baja a una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia cerrada baja, abre tus caderas y separa las piernas en forma de tijera. Coloca un pie en la cadera del oponente y el otro pie en su hombro. Usa un movimiento de tijera para levantar y barrer al oponente hacia un lado, pasando a una posición de control.",
+    "variante": "Scissor Sweep con agarre en la manga para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Scissor Sweep desde Guardia Cerrada Baja - BJJ Basics",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Palanca de Brazo desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando tienes control sobre uno de los brazos del oponente desde una posición de guardia cerrada neutral.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo.",
+    "descripcion": "Desde la guardia cerrada, engancha el brazo del oponente, cruza tus piernas sobre su espalda y gira tu cuerpo para alinear tu cadera con su brazo. Aplica presión hacia abajo en el brazo para ejecutar la palanca y obligar a la sumisión.",
+    "variante": "Palanca de brazo con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar Básico desde Guardia Cerrada - BJJ Fundamentals",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente intenta pasar tu guardia y expone uno de sus brazos y su cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde la guardia cerrada, controla el brazo y cuello del oponente, cruza una pierna sobre su hombro y la otra detrás de su cabeza. Ajusta tus piernas para formar un triángulo y aprieta para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo Básico desde Guardia Cerrada - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido de Tijera desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente está controlando tu guardia pero puedes desestabilizar su postura.",
+    "objetivoPrincipal": "Invertir la posición para pasar de guardia cerrada a una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia cerrada, abre tus caderas y separa las piernas en forma de tijera. Coloca un pie en la cadera del oponente y el otro pie en su hombro. Usa un movimiento de tijera para levantar y barrer al oponente hacia un lado, pasando a una posición de control.",
+    "variante": "Scissor Sweep con agarre en la manga para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Scissor Sweep desde Guardia Cerrada - BJJ Basics",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Estrangulación Cruzada desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando el oponente intenta controlar tu postura desde la guardia cerrada neutral.",
+    "objetivoPrincipal": "Aplicar una estrangulación efectiva utilizando las líneas de tu brazo y piernas.",
+    "descripcion": "Desde la guardia cerrada neutral, cruza tus manos en el collar del oponente, asegurando un agarre firme. Usa tus piernas para mantener la distancia y aplicar presión hacia adelante, cerrando la estrangulación para forzar la sumisión.",
+    "variante": "Estrangulación cruzada con un agarre de guillotina para aumentar la presión.",
+    "recursosAdicionales": [
+      "Video: Estrangulación Cruzada Básica - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia Cerrada - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Guardia Cerrada",
+    "posicionInicial": "Guardia cerrada (Closed Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Neutral",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente desde una posición de guardia cerrada neutral.",
+    "objetivoPrincipal": "Aplicar una palanca en el hombro del oponente para forzar una sumisión.",
+    "descripcion": "Desde la guardia cerrada, agarra el brazo del oponente y lleva tu brazo por debajo de su brazo, asegurando una figura de kimura. Gira tu cuerpo hacia el lado opuesto y tira del brazo del oponente hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura con control de muñeca para evitar que el oponente escape o contragolpee.",
+    "recursosAdicionales": [
+      "Video: Kimura Básica desde Guardia Cerrada - BJJ Techniques",
+      "Seminario: Técnicas de Sumisión con Kimura - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep Básico desde Media Guardia",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando estás en media guardia y buscas invertir la posición para obtener control superior.",
+    "objetivoPrincipal": "Barrido para pasar a una posición de control superior, como la montada.",
+    "descripcion": "Desde la media guardia tradicional, controla el brazo del oponente y usa tus caderas para desestabilizar su equilibrio. Empuja con tu pierna libre mientras levantas con la pierna que está bajo su cuerpo para realizar el barrido.",
+    "variante": "Sweep Básico con control de cinturón para mayor estabilidad.",
+    "recursosAdicionales": [
+      "Video: Sweep Básico desde Media Guardia Tradicional - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Media Guardia",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando tienes control del brazo del oponente desde media guardia y buscas aplicar una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse mediante una palanca en el hombro utilizando la técnica de kimura.",
+    "descripcion": "Desde la media guardia tradicional, agarra el brazo del oponente y sitúa tu cuerpo en un ángulo que te permita aplicar presión hacia atrás en su hombro. Asegura una figura de kimura y tira del brazo hacia atrás para forzar la sumisión.",
+    "variante": "Kimura con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Media Guardia Tradicional - BJJ Techniques",
+      "DVD: Sumisiones desde Media Guardia - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Inversión de Media Guardia",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando estás en media guardia y buscas invertir la posición para ganar control.",
+    "objetivoPrincipal": "Cambiar la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la media guardia tradicional, utiliza tus caderas para empujar al oponente hacia un lado mientras controlas su brazo. Gira tu cuerpo y utiliza la inercia para invertir la posición, llevando al oponente al suelo y obteniendo una posición superior.",
+    "variante": "Inversión con control de cintura para mantener el control durante el cambio de posición.",
+    "recursosAdicionales": [
+      "Video: Inversión de Media Guardia Tradicional - BJJ Basics",
+      "Seminario: Barridos y Transiciones - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Media Guardia",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando estás en media guardia y deseas pasar la guardia del oponente para obtener una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente para alcanzar una posición de control como side control o montada.",
+    "descripcion": "Desde la media guardia tradicional, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado y establece una posición de control superior, como la side control.",
+    "variante": "Pasaje con control de cabeza para evitar contragolpes y mantener el control durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje Básico desde Media Guardia Tradicional - BJJ Techniques",
+      "DVD: Transiciones de Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Media Guardia",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Tradicional",
+    "contexto": "Cuando estás atrapado en media guardia y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de la media guardia para evitar ser sometido o controlado por el oponente.",
+    "descripcion": "Desde la media guardia tradicional, utiliza técnicas de empuje y tirón para liberar tus piernas del control del oponente. Gira tu cuerpo hacia un lado para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape con control de brazo para evitar que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Media Guardia Tradicional - BJJ Basics",
+      "Seminario: Técnicas de Escape - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Deep Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando estás en deep half guard y buscas invertir la posición para obtener una superior.",
+    "objetivoPrincipal": "Realizar un barrido efectivo para pasar a una posición de control superior como la montada.",
+    "descripcion": "Desde la deep half guard, controla la pierna del oponente y utiliza tus caderas para crear desequilibrio. Gira tu cuerpo hacia el lado opuesto mientras levantas con tus piernas para barrer al oponente y obtener una posición dominante.",
+    "variante": "Sweep de Deep Half Guard con control de cinturón para mayor estabilidad durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Deep Half Guard para Principiantes - BJJ Basics",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Deep Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando tienes control del brazo del oponente desde deep half guard y buscas una sumisión.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+    "descripcion": "Desde la deep half guard, agarra el brazo del oponente y coloca tu brazo por debajo de su brazo. Asegura una figura de kimura girando tu cuerpo y tirando del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Deep Half Guard con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Deep Half Guard - BJJ Techniques",
+      "DVD: Sumisiones Efectivas en Media Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Deep Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando estás en deep half guard y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde deep half guard para lograr una posición dominante como side control o montada.",
+    "descripcion": "Desde la deep half guard, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior.",
+    "variante": "Pasaje de Deep Half Guard con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje de Deep Half Guard - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Deep Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando estás atrapado en deep half guard y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de deep half guard para evitar ser controlado o sometido por el oponente.",
+    "descripcion": "Desde la deep half guard, utiliza técnicas de empuje y tirón para liberar tus piernas del control del oponente. Gira tu cuerpo hacia un lado para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Deep Half Guard con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Deep Half Guard - BJJ Basics",
+      "Seminario: Técnicas de Escape en Media Guardia - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Arm Drag desde Deep Half Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Progresion",
+    "subtipoPosicionInicial": "Deep Half",
+    "contexto": "Cuando estás en deep half guard y deseas controlar el brazo del oponente para mejorar tu posición.",
+    "objetivoPrincipal": "Controlar el brazo del oponente mediante un arm drag para facilitar el pase de guardia o la obtención de una posición dominante.",
+    "descripcion": "Desde la deep half guard, engancha el brazo del oponente y realiza un movimiento de arrastre con tu brazo. Gira tu cuerpo hacia el lado opuesto mientras mantienes el control del brazo, facilitando el pase de guardia o la transición a una posición superior.",
+    "variante": "Arm Drag desde Deep Half Guard con cambio de agarre para adaptarse a la resistencia del oponente.",
+    "recursosAdicionales": [
+      "Video: Arm Drag desde Deep Half Guard - BJJ Techniques",
+      "DVD: Progresiones de Control desde Media Guardia - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando estás en Z-Guard y el oponente intenta avanzar sin controlar tus piernas.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una posición de control superior, como la montada.",
+    "descripcion": "Desde la Z-Guard, controla el brazo y la postura del oponente. Utiliza tus piernas para crear desequilibrio empujando su cadera hacia un lado mientras giras tu cuerpo en la dirección opuesta. Levanta con tus brazos y utiliza tus piernas para barrer al oponente hacia el suelo, obteniendo una posición dominante.",
+    "variante": "Barrido básico con agarre en el cinturón para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Básico desde Z-Guard - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras estás en Z-Guard.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+    "descripcion": "Desde la Z-Guard, agarra el brazo del oponente y lleva tu brazo por debajo de su brazo, asegurando una figura de kimura. Gira tu cuerpo hacia el lado opuesto y tira del brazo del oponente hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Z-Guard con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Z-Guard - BJJ Techniques",
+      "DVD: Sumisiones desde Z-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando el oponente intenta pasar tu guardia y expone su cuello desde Z-Guard.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde la Z-Guard, pasa tu brazo por encima del cuello del oponente mientras controlas una de sus piernas. Ajusta tu posición de Z-Guard para cerrar la guillotina con tus piernas y aplica presión hacia abajo para estrangular al oponente, forzándolo a la sumisión.",
+    "variante": "Guillotina desde Z-Guard con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Guillotina desde Z-Guard - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Z-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje Básico desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando estás en Z-Guard y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde Z-Guard para lograr una posición dominante como side control o montada.",
+    "descripcion": "Desde la Z-Guard, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior como side control.",
+    "variante": "Pasaje básico con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje Básico desde Z-Guard - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Z-Guard",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Z-Guard",
+    "contexto": "Cuando estás atrapado en Z-Guard y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de Z-Guard para evitar ser controlado o sometido por el oponente.",
+    "descripcion": "Desde la Z-Guard, utiliza técnicas de empuje y tirón para liberar tus piernas del control del oponente. Gira tu cuerpo hacia un lado para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Z-Guard con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Z-Guard - BJJ Basics",
+      "Seminario: Técnicas de Escape en Z-Guard - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido de Knee Shield Básico",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando estás en media guardia con una rodilla apoyada para crear una barrera y el oponente intenta avanzar.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+    "descripcion": "Desde la media guardia con knee shield, controla el brazo y la postura del oponente. Utiliza tu rodilla para mantener distancia y empuja con tus hombros hacia adelante. Gira tu cuerpo hacia el lado opuesto mientras levantas con tus piernas para barrer al oponente hacia el suelo, obteniendo una posición dominante.",
+    "variante": "Barrido de Knee Shield con agarre de cinturón para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido de Knee Shield Básico - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Kimura desde Knee Shield",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras mantienes una rodilla en knee shield.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el hombro mediante la técnica de kimura.",
+    "descripcion": "Desde la media guardia con knee shield, agarra el brazo del oponente y sitúa tu brazo por debajo de su brazo. Asegura una figura de kimura girando tu cuerpo y tirando del brazo hacia atrás, aplicando presión en el hombro para la sumisión.",
+    "variante": "Kimura desde Knee Shield con control de torso para evitar escapes del oponente.",
+    "recursosAdicionales": [
+      "Video: Kimura desde Knee Shield - BJJ Techniques",
+      "DVD: Sumisiones desde Knee Shield - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Pasaje de Knee Shield Básico",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Pasaje",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando estás en media guardia con knee shield y deseas pasar la guardia del oponente para alcanzar una posición de control superior.",
+    "objetivoPrincipal": "Pasar la guardia del oponente desde knee shield para lograr una posición dominante como side control o montada.",
+    "descripcion": "Desde la media guardia con knee shield, controla las piernas del oponente y utiliza movimientos de cadera para abrir su guardia. Avanza tu cuerpo sobre su lado mientras mantienes el control de sus piernas, estableciendo una posición de control superior como side control.",
+    "variante": "Pasaje básico con control de cabeza para evitar contragolpes durante el pasaje.",
+    "recursosAdicionales": [
+      "Video: Pasaje Básico desde Knee Shield - BJJ Techniques",
+      "DVD: Transiciones de Guardia a Control Superior - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Escape desde Knee Shield",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Escape",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando estás atrapado en knee shield y buscas escapar para mejorar tu posición.",
+    "objetivoPrincipal": "Escapar de knee shield para evitar ser controlado o sometido por el oponente.",
+    "descripcion": "Desde la media guardia con knee shield, utiliza técnicas de empuje y tirón para liberar tus piernas del control del oponente. Gira tu cuerpo hacia un lado para crear espacio y escapar hacia una posición neutral o una guardia completa.",
+    "variante": "Escape desde Knee Shield con control de brazo para prevenir que el oponente establezca un control más dominante.",
+    "recursosAdicionales": [
+      "Video: Escape desde Knee Shield - BJJ Basics",
+      "Seminario: Técnicas de Escape en Knee Shield - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Inversión desde Knee Shield",
+    "posicionInicial": "Half Guard (Media Guardia)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Knee Shield",
+    "contexto": "Cuando estás en knee shield y el oponente intenta controlar tu postura pero puedes desestabilizar su equilibrio.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la media guardia con knee shield, controla el brazo y la postura del oponente. Utiliza tu rodilla en knee shield para mantener la distancia y empuja con tus hombros hacia adelante. Gira tu cuerpo hacia el lado opuesto mientras levantas con tus piernas para barrer al oponente hacia el suelo, obteniendo una posición dominante.",
+    "variante": "Sweep de inversión desde Knee Shield con agarre en el cinturón para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Inversión desde Knee Shield - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde Guardia Mariposa",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Butterfly Hook doble",
+    "contexto": "Cuando estás en guardia mariposa con ambos ganchos activos y el oponente intenta controlar tu postura.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia mariposa con ambos ganchos, controla las mangas o los hombros del oponente. Utiliza tus ganchos para levantar y desequilibrar al oponente mientras giras tu cuerpo hacia un lado, realizando un barrido que te permite pasar a una posición dominante.",
+    "variante": "Barrido de Guardia Mariposa con agarre en el cinturón para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Básico desde Guardia Mariposa - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Guardia Mariposa",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Butterfly Hook doble",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras estás en guardia mariposa con ambos ganchos activos.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo para extenderlo completamente.",
+    "descripcion": "Desde la guardia mariposa con ambos ganchos, engancha el brazo del oponente y utiliza tus piernas para controlar su postura. Gira tu cuerpo hacia el lado opuesto y estira tus piernas mientras aplicas presión hacia abajo en el brazo del oponente para ejecutar la palanca.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Guardia Mariposa - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina desde Guardia Mariposa",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Butterfly Hook doble",
+    "contexto": "Cuando el oponente intenta pasar tu guardia mariposa y expone su cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde la guardia mariposa con ambos ganchos, pasa tu brazo por encima del cuello del oponente mientras controlas una de sus piernas. Ajusta tu posición para cerrar la guillotina con tus piernas y aplica presión hacia abajo para estrangular al oponente, forzándolo a la sumisión.",
+    "variante": "Guillotina desde Guardia Mariposa con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Guillotina desde Guardia Mariposa - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia Mariposa - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Inversión desde Guardia Mariposa",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Butterfly Hook doble",
+    "contexto": "Cuando estás en guardia mariposa con ambos ganchos y el oponente intenta mantener la postura.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la guardia mariposa con ambos ganchos, controla la postura del oponente y usa tus ganchos para levantar y desestabilizar. Gira tu cuerpo hacia un lado mientras tiras de los brazos del oponente, realizando un barrido que te permite obtener una posición dominante en el suelo.",
+    "variante": "Sweep de Inversión con agarre en las mangas para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Inversión desde Guardia Mariposa - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Elevación desde Guardia Mariposa",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Butterfly Hook doble",
+    "contexto": "Cuando estás en guardia mariposa con ambos ganchos y el oponente está desequilibrado.",
+    "objetivoPrincipal": "Realizar un barrido efectivo para pasar a una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia mariposa con ambos ganchos, controla la postura del oponente y usa tus ganchos para elevar sus caderas. Empuja con tus brazos hacia atrás mientras levantas con tus piernas, girando tu cuerpo hacia un lado para barrer al oponente y obtener una posición dominante en el suelo.",
+    "variante": "Sweep de Elevación con agarre de cinturón para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Elevación desde Guardia Mariposa - BJJ Basics",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Barrido Básico desde Guardia Mariposa con Un Gancho",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Single Butterfly Hook (Half Butterfly)",
+    "contexto": "Cuando estás en guardia mariposa con un gancho activo y el oponente intenta mantener una postura estable.",
+    "objetivoPrincipal": "Invertir la posición para obtener una posición de control superior, como la montada.",
+    "descripcion": "Desde la guardia mariposa con un gancho, controla la manga o el cuello del oponente. Utiliza el gancho para levantar una de sus piernas mientras giras tu cuerpo hacia el lado opuesto. Empuja con tu otro brazo para desestabilizar su equilibrio y realizar el barrido, pasando a una posición dominante en el suelo.",
+    "variante": "Barrido con agarre en la manga para mayor control durante la inversión.",
+    "recursosAdicionales": [
+      "Video: Barrido Básico desde Guardia Mariposa - BJJ Fundamentals",
+      "DVD: Técnicas de Barrido para Cinturón Blanco - Gracie Barra"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Triángulo desde Guardia Mariposa con Un Gancho",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single Butterfly Hook (Half Butterfly)",
+    "contexto": "Cuando el oponente intenta pasar tu guardia mariposa y expone su brazo y cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación utilizando tus piernas para formar un triángulo alrededor del cuello y brazo del oponente.",
+    "descripcion": "Desde la guardia mariposa con un gancho, controla el brazo y cuello del oponente. Coloca una pierna sobre su hombro y la otra detrás de su cabeza, ajustando tus piernas para formar un triángulo. Aprieta las piernas y tira de tu cadera hacia abajo para aplicar la estrangulación, forzando al oponente a rendirse.",
+    "variante": "Triángulo invertido para adaptarse a diferentes posiciones del oponente y aumentar la presión de la estrangulación.",
+    "recursosAdicionales": [
+      "Video: Triángulo desde Guardia Mariposa - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia Mariposa - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Armbar desde Guardia Mariposa con Un Gancho",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single Butterfly Hook (Half Butterfly)",
+    "contexto": "Cuando tienes control de uno de los brazos del oponente mientras estás en guardia mariposa con un gancho activo.",
+    "objetivoPrincipal": "Forzar al oponente a rendirse aplicando una palanca en el codo para extenderlo completamente.",
+    "descripcion": "Desde la guardia mariposa con un gancho, engancha el brazo del oponente y utiliza tus piernas para controlar su postura. Gira tu cuerpo hacia el lado opuesto mientras estiras tus piernas para aplicar presión en el codo del oponente, ejecutando la palanca y obligando a la sumisión.",
+    "variante": "Armbar con agarre invertido para mayor control y seguridad en la sumisión.",
+    "recursosAdicionales": [
+      "Video: Armbar desde Guardia Mariposa - BJJ Techniques",
+      "DVD: Técnicas de Sumisión para Cinturón Blanco - Gracie University"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Guillotina desde Guardia Mariposa con Un Gancho",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Finalizacion",
+    "subtipoPosicionInicial": "Single Butterfly Hook (Half Butterfly)",
+    "contexto": "Cuando el oponente intenta pasar tu guardia mariposa y expone su cuello.",
+    "objetivoPrincipal": "Aplicar una estrangulación forzando al oponente a rendirse por presión en el cuello.",
+    "descripcion": "Desde la guardia mariposa con un gancho, pasa tu brazo por encima del cuello del oponente mientras controlas una de sus piernas. Ajusta tu posición para cerrar la guillotina con tus piernas y aplica presión hacia abajo para estrangular al oponente, forzándolo a la sumisión.",
+    "variante": "Guillotina con agarre cruzado para mayor control y efectividad.",
+    "recursosAdicionales": [
+      "Video: Guillotina desde Guardia Mariposa - BJJ Techniques",
+      "Seminario: Estrangulaciones desde Guardia Mariposa - Gracie Jiu-Jitsu"
+    ]
+  },
+  {
+    "id": 0,
+    "nombre": "Sweep de Inversión desde Guardia Mariposa con Un Gancho",
+    "posicionInicial": "Guardia mariposa (Butterfly Guard)",
+    "dificultad": "BLANCO",
+    "tipoTecnica": "Barridos",
+    "subtipoPosicionInicial": "Single Butterfly Hook (Half Butterfly)",
+    "contexto": "Cuando estás en guardia mariposa con un gancho activo y el oponente intenta mantener la postura.",
+    "objetivoPrincipal": "Invertir la posición para pasar a una guardia más dominante o control superior.",
+    "descripcion": "Desde la guardia mariposa con un gancho, controla la postura del oponente y usa tu gancho para levantar y desestabilizar. Gira tu cuerpo hacia un lado mientras tiras de los brazos del oponente, realizando un barrido que te permite obtener una posición dominante en el suelo.",
+    "variante": "Sweep de Inversión con agarre en las mangas para mayor control durante el barrido.",
+    "recursosAdicionales": [
+      "Video: Sweep de Inversión desde Guardia Mariposa - BJJ Fundamentals",
+      "DVD: Técnicas Avanzadas de Barrido - Gracie Barra"
+    ]
+  }
+]
+
+
+

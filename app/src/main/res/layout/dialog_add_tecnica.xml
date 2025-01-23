@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvNombreLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre:"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etNombreTecnica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el nombre"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/tvPosicionInicialLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Posición Inicial:"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerPosicionInicial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <!-- Label: Subtipo de Posición -->
+
+    <TextView
+        android:id="@+id/tvSubtipoPosicionInicial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Subtipo de Posición:"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spSubtipoPosicion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvDificultadLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dificultad:"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerDificultad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvTipoTecnicaLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipo de Técnica:"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerTipoTecnica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvContextoLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contexto:"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etContexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el contexto"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/tvObjetivoPrincipalLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Objetivo Principal:"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etObjetivoPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el objetivo principal"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/tvDescripcionLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Descripción:"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etDescripcionTecnica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese la descripción"
+        android:inputType="textMultiLine" />
+
+    <LinearLayout
+        android:id="@+id/llFuentes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="8dp" >
+
+        <Button
+            android:id="@+id/btnAgregarFuente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recursos adicionales" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnAgregarTecnica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar Técnica"/>
+</LinearLayout>

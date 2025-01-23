@@ -1,0 +1,32 @@
+[
+  {
+    "idAlumno": 1,
+    "nombre": "Alan",
+    "cinturon": "Blanco",
+    "abonado": true,
+    "fechaNacimiento": "1994-06-15",  // Formato de fecha: yyyy-MM-dd
+    "fechaAfiliacion": "2023-01-01", // Formato de fecha: yyyy-MM-dd
+    "clasesPorSemana": "DOS",       // Uno de los valores del enum
+    "celular": "123456710"
+  },
+  {
+    "idAlumno": 2,
+    "nombre": "Lean",
+    "cinturon": "Blanco",
+    "abonado": true,
+    "fechaNacimiento": "1987-06-15",  // Formato de fecha: yyyy-MM-dd
+    "fechaAfiliacion": "2023-01-01", // Formato de fecha: yyyy-MM-dd
+    "clasesPorSemana": "DOS",       // Uno de los valores del enum
+    "celular": "123456710"
+  },
+  {
+    "idAlumno": 3,
+    "nombre": "Guido",
+    "cinturon": "Blanco",
+    "abonado": true,
+    "fechaNacimiento": "1990-06-15",  // Formato de fecha: yyyy-MM-dd
+    "fechaAfiliacion": "2023-01-01", // Formato de fecha: yyyy-MM-dd
+    "clasesPorSemana": "DOS",       // Uno de los valores del enum
+    "celular": "123456710"
+  }
+]

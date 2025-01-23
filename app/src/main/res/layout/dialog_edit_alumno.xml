@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- ID del Alumno -->
+    <TextView
+        android:id="@+id/tvIdEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID: 0"
+        android:layout_marginBottom="8dp" />
+
+    <!-- ID Alumno -->
+    <TextView
+        android:id="@+id/tvIdAlumnoEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DNI: 1234"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Nombre del Alumno -->
+    <TextView
+        android:id="@+id/tvNombreEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre: Nombre del Alumno"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Cinturón del Alumno -->
+    <TextView
+        android:id="@+id/tvCinturonEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cinturón: Blanco"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Edad del Alumno -->
+    <TextView
+        android:id="@+id/tvEdadEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edad: 30 años"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Celular del Alumno -->
+    <TextView
+        android:id="@+id/tvCelularEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Celular: 123456789"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Estado de Abonado -->
+    <CheckBox
+        android:id="@+id/cbAbonadoEditAlumno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Abonado?"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Botón para Guardar Cambios -->
+    <Button
+        android:id="@+id/btnGuardarEditAlumno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guardar Cambios" />
+</LinearLayout>

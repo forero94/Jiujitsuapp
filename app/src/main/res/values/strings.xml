@@ -1,0 +1,14 @@
+<resources>
+    <string name="tipo_tecnica_prompt">Selecciona el tipo de técnica</string>
+    <string name="dificultad_prompt">Selecciona la dificultad</string>
+    <string name="contexto_prompt">Selecciona el contexto</string>
+    <string name="posicion_inicial_prompt">Selecciona la posición inicial</string>
+    <string name="objetivo_principal_prompt">Selecciona el objetivo principal</string>
+    <string-array name="clases_por_semana">
+        <item>UNA</item>
+        <item>DOS</item>
+        <item>TRES</item>
+        <item>LIBRE</item>
+    </string-array>
+
+</resources>

@@ -45,6 +45,7 @@ class CronogramaFragment : Fragment() {
 
     ): View? {
         val view = inflater.inflate(R.layout.fragment_cronograma, container, false)
+        progressBar = view.findViewById(R.id.progressBar)
         cargarTecnicasSemana()
         progressBar = view.findViewById(R.id.progressBar)
         filtroInfoTextView = view.findViewById(R.id.filtroInfoText)

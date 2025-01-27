@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
@@ -31,6 +32,7 @@ class CronogramaFragment : Fragment() {
     private lateinit var rectanguloMarron: View
     private lateinit var rectanguloNegro: View
     private var dificultadSeleccionada: String? = null
+    private lateinit var progressBar: ProgressBar
 
     private val tecnicasViewModel: TecnicasViewModel by viewModels()
     private lateinit var tecnicaSemanaAdapter: TecnicasAdapter
@@ -43,7 +45,8 @@ class CronogramaFragment : Fragment() {
 
     ): View? {
         val view = inflater.inflate(R.layout.fragment_cronograma, container, false)
-
+        cargarTecnicasSemana()
+        progressBar = view.findViewById(R.id.progressBar)
         filtroInfoTextView = view.findViewById(R.id.filtroInfoText)
         val verCronogramaButton: Button = view.findViewById(R.id.verCronogramaButton)
         val editarCronogramaButton: Button = view.findViewById(R.id.editarCronogramaButton)
@@ -72,13 +75,15 @@ class CronogramaFragment : Fragment() {
 
 
         // Registrar listener para resultados con la clave "filtroUpdated"
-      cargarTecnicasSemana()
+
 
         return view
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        // Inicializar vistas
+        progressBar = view.findViewById(R.id.progressBar)
         cinturonBlanco = view.findViewById(R.id.cinturonBlanco)
         cinturonAzul = view.findViewById(R.id.cinturonAzul)
         cinturonVioleta = view.findViewById(R.id.cinturonVioleta)
@@ -89,31 +94,16 @@ class CronogramaFragment : Fragment() {
         rectanguloVioleta = view.findViewById(R.id.rectanguloVioleta)
         rectanguloMarron = view.findViewById(R.id.rectanguloMarron)
         rectanguloNegro = view.findViewById(R.id.rectanguloNegro)
-        // Listener para cada círculo
+
+        // Configurar listeners
         cinturonBlanco.setOnClickListener { aplicarFiltro("BLANCO") }
         cinturonAzul.setOnClickListener { aplicarFiltro("AZUL") }
         cinturonVioleta.setOnClickListener { aplicarFiltro("VIOLETA") }
         cinturonMarron.setOnClickListener { aplicarFiltro("MARRON") }
         cinturonNegro.setOnClickListener { aplicarFiltro("NEGRO") }
-        val cinturonBlanco = view.findViewById<View>(R.id.cinturonBlanco)
-        val cinturonAzul = view.findViewById<View>(R.id.cinturonAzul)
-        val cinturonVioleta = view.findViewById<View>(R.id.cinturonVioleta)
-        val cinturonMarron = view.findViewById<View>(R.id.cinturonMarron)
-        val cinturonNegro = view.findViewById<View>(R.id.cinturonNegro)
-        cinturonBlanco.setOnClickListener { aplicarFiltro("BLANCO") }
-        cinturonAzul.setOnClickListener { aplicarFiltro("AZUL") }
-        cinturonVioleta.setOnClickListener { aplicarFiltro("VIOLETA") }
-        cinturonMarron.setOnClickListener { aplicarFiltro("MARRON") }
-        cinturonNegro.setOnClickListener { aplicarFiltro("NEGRO") }
-        // Registrar listener para resultados
-        childFragmentManager.setFragmentResultListener("filtroUpdated", viewLifecycleOwner) { key, bundle ->
-            val necesitaActualizar = bundle.getBoolean("actualizar", false)
-            Log.d("CronogramaFragment", "Evento recibido: clave=$key, actualizar=$necesitaActualizar")
-            if (necesitaActualizar) {
-                Log.d("CronogramaFragment", "Recibido evento de actualización del diálogo, cargando técnicas")
-                cargarTecnicasSemana()
-            }
-        }
+
+        // Cargar datos después de que las vistas estén inicializadas
+        cargarTecnicasSemana()
     }
 
 
@@ -155,12 +145,17 @@ class CronogramaFragment : Fragment() {
         val (mesActual, semanaActual) = obtenerMesYSemanaActual()
         Log.d("CronogramaFragment", "Consultando filtro para mes=$mesActual, semana=$semanaActual y dificultad=$dificultadSeleccionada")
 
+        // Mostrar ProgressBar
+        progressBar.visibility = View.VISIBLE
+
         lifecycleScope.launch {
             val filtroSemana = tecnicasViewModel.obtenerFiltroParaSemana(mesActual, semanaActual)
 
             // Obtener técnicas con ambos filtros: dificultad y semana
             val tecnicasFiltradas = tecnicasViewModel.obtenerTecnicasCombinadas(filtroSemana, dificultadSeleccionada)
 
+            // Ocultar ProgressBar y mostrar los datos
+            progressBar.visibility = View.GONE
             tecnicaSemanaAdapter.submitList(tecnicasFiltradas)
 
             // Actualizar la descripción del filtro

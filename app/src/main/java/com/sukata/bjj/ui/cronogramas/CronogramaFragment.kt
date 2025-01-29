@@ -163,12 +163,14 @@ class CronogramaFragment : Fragment() {
             val posicion = filtroSemana?.posicionInicial ?: "Todos"
             val tipo = filtroSemana?.tipoTecnica ?: "Todos"
             val dificultadTexto = dificultadSeleccionada ?: "Todas las dificultades"
-
-            val filtrosTexto = buildString {
+            val filtrosTexto = if (semanaActual == "5") {
+                "Libre"
+            } else {
+                buildString {
                 if (tipo != "Todos") append("$tipo") else append("Cualquier técnica")
                 append(" desde ")
                 if (posicion != "Todos") append("$posicion") else append("cualquier posición")
-            }
+            }}
             filtroInfoTextView.text = filtrosTexto
         }
     }

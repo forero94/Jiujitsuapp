@@ -6,6 +6,7 @@ import com.sukata.bjj.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.sukata.bjj.ui.alumnos.AlumnosFragment
 import com.sukata.bjj.ui.cronogramas.CronogramaFragment
+import com.sukata.bjj.ui.fragments.PlanesFragment
 import com.sukata.bjj.ui.tecnicas.TecnicasFragment
 
 class MainActivity : AppCompatActivity() {
@@ -15,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     private val tecnicasFragment = TecnicasFragment()
     private val alumnosFragment = AlumnosFragment()
     private val cronogramasFragment = CronogramaFragment()
+    private val planesFragment = PlanesFragment()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -41,6 +43,12 @@ class MainActivity : AppCompatActivity() {
                 R.id.nav_cronogramas -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.fragment_container, cronogramasFragment)
+                        .commit()
+                    true
+                }
+                R.id.nav_planes -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.fragment_container, planesFragment)
                         .commit()
                     true
                 }

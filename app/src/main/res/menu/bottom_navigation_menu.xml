@@ -8,9 +8,12 @@
         android:id="@+id/nav_alumnos"
         android:icon="@android:drawable/ic_dialog_info"
         android:title="Alumnos" />
-
     <item
-    android:id="@+id/nav_tecnicas"
-    android:icon="@android:drawable/btn_star_big_on"
-    android:title="Técnicas" />
+        android:id="@+id/nav_tecnicas"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Técnicas" />
+    <item
+        android:id="@+id/nav_planes"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Cadenas" />
 </menu>

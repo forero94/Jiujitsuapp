@@ -15,6 +15,14 @@
     <color name="unselected_color">#DDDDDD</color> <!-- Claro -->
     <color name="default_background">#FFFFFF</color> <!-- Fondo blanco -->
     <color name="selected_background">#FFD700</color> <!-- Dorado -->
+    <color name="verde">#4CAF50</color> <!-- Verde -->
+    <color name="naranja">#FF9800</color> <!-- Naranja -->
+    <color name="celeste">#03A9F4</color> <!-- Celeste -->
+    <color name="violeta">#9C27B0</color> <!-- Violeta -->
 
+    <!-- Otros colores existentes -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
 
 </resources>

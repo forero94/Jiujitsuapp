@@ -10,6 +10,7 @@ import androidx.sqlite.db.SupportSQLiteDatabase
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.sukata.bjj.R
+import com.sukata.bjj.data.dao.PlanDao
 import com.sukata.bjj.data.daos.AlumnoDao
 import com.sukata.bjj.data.daos.CronogramaDao
 import com.sukata.bjj.data.daos.FiltroSemanalDao
@@ -17,6 +18,7 @@ import com.sukata.bjj.data.daos.TecnicaDao
 import com.sukata.bjj.data.entities.AlumnoEntity
 import com.sukata.bjj.data.entities.CronogramaEntity
 import com.sukata.bjj.data.entities.FiltroSemanalEntity
+import com.sukata.bjj.data.entities.Plan
 import com.sukata.bjj.data.entities.TecnicaEntity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -27,9 +29,10 @@ import kotlinx.coroutines.launch
         AlumnoEntity::class,
         TecnicaEntity::class,
         CronogramaEntity::class,
-        FiltroSemanalEntity::class
+        FiltroSemanalEntity::class,
+        Plan::class
     ],
-    version = 12, // Increment version if schema changes
+    version = 15, // Increment version if schema changes
     exportSchema = false
 )
 @TypeConverters(
@@ -42,8 +45,8 @@ abstract class AppDatabase : RoomDatabase() {
 
     abstract fun alumnoDao(): AlumnoDao
     abstract fun tecnicaDao(): TecnicaDao
-    abstract fun cronogramaDao(): CronogramaDao
     abstract fun filtroSemanalDao(): FiltroSemanalDao
+    abstract fun planDao(): PlanDao
 
     companion object {
         @Volatile

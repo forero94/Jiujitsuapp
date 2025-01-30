@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tilReaccionDinamico"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Reacción"
+    android:layout_marginBottom="12dp"
+    app:boxStrokeColor="@color/naranja">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/etReaccionDinamico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/naranja"
+        android:textColor="@android:color/black"
+        android:padding="12dp"/>
+</com.google.android.material.textfield.TextInputLayout>

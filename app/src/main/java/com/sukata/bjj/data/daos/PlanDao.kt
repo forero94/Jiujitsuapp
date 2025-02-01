@@ -1,4 +1,4 @@
-package com.sukata.bjj.data.dao
+package com.sukata.bjj.data.daos
 
 import androidx.lifecycle.LiveData
 import androidx.room.*

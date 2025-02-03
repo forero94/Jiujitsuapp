@@ -10,10 +10,10 @@ import androidx.sqlite.db.SupportSQLiteDatabase
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.sukata.bjj.R
-import com.sukata.bjj.data.dao.PlanDao
 import com.sukata.bjj.data.daos.AlumnoDao
 import com.sukata.bjj.data.daos.CronogramaDao
 import com.sukata.bjj.data.daos.FiltroSemanalDao
+import com.sukata.bjj.data.daos.PlanDao
 import com.sukata.bjj.data.daos.TecnicaDao
 import com.sukata.bjj.data.entities.AlumnoEntity
 import com.sukata.bjj.data.entities.CronogramaEntity

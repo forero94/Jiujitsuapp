@@ -1,7 +1,9 @@
 package com.sukata.bjj.ui.planificacion
 
 import android.app.Application
-import androidx.lifecycle.*
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.viewModelScope
 import com.sukata.bjj.data.db.AppDatabase
 import com.sukata.bjj.data.entities.Plan
 import com.sukata.bjj.data.repository.PlanRepository
@@ -29,15 +31,22 @@ class PlanViewModel(application: Application) : AndroidViewModel(application) {
     fun update(plan: Plan) = viewModelScope.launch {
         repository.update(plan)
     }
-}
 
-class PlanViewModelFactory(private val application: Application) : ViewModelProvider.Factory {
-    override fun <T : ViewModel> create(modelClass: Class<T>): T {
-        if (modelClass.isAssignableFrom(PlanViewModel::class.java)) {
-            @Suppress("UNCHECKED_CAST")
-            return PlanViewModel(application) as T
-        }
-        throw IllegalArgumentException("Unknown ViewModel class")
+    // Función para bifurcar un plan
+    fun bifurcar(
+        planOriginal: Plan,
+        nuevaPosicion: String,
+        nuevasAcciones: List<String>,
+        nuevasReacciones: List<String>
+    ) = viewModelScope.launch {
+        // Actualizamos (o guardamos) el plan original, si es necesario
+        repository.update(planOriginal)
+        // Creamos el nuevo plan tomando la nueva posición como primeraPosicion
+        val nuevoPlan = Plan(
+            primeraPosicion = nuevaPosicion,
+            acciones = nuevasAcciones,
+            reacciones = nuevasReacciones
+        )
+        repository.insert(nuevoPlan)
     }
-
 }

@@ -1,7 +1,7 @@
 package com.sukata.bjj.data.repository
 
 import androidx.lifecycle.LiveData
-import com.sukata.bjj.data.dao.PlanDao
+import com.sukata.bjj.data.daos.PlanDao
 import com.sukata.bjj.data.entities.Plan
 
 class PlanRepository(private val planDao: PlanDao) {

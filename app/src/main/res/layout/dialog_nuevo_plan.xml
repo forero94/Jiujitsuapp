@@ -1,91 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
+<androidx.coordinatorlayout.widget.CoordinatorLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
-    <LinearLayout
-        android:id="@+id/containerCampos"
+    <!-- Se usa un NestedScrollView para permitir el scroll del contenido -->
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="24dp">
+        android:fillViewport="true">
 
-        <!-- Título "Nuevo Plan" -->
-        <TextView
-            android:id="@+id/tvTituloDialogo"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Nuevo Plan"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:layout_gravity="center_horizontal"
-            android:paddingBottom="16dp"/>
-
-        <!-- EditText de Acción Inicial (Verde) -->
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/tilAccionInicial"
+        <!-- Contenedor principal (por ejemplo, LinearLayout) -->
+        <LinearLayout
+            android:id="@+id/llDialogContainer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Acción Inicial"
-            android:layout_marginBottom="12dp"
-            app:boxStrokeColor="@color/verde">
+            android:orientation="vertical"
+            android:padding="16dp">
 
-            <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/etAccionInicial"
+            <!-- Campo de acción inicial -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tilAccionInicial"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/verde"
-                android:textColor="@android:color/black"
-                android:padding="12dp"/>
-        </com.google.android.material.textfield.TextInputLayout>
+                android:hint="Acción Inicial">
 
-        <!-- Contenedor para campos dinámicos -->
-        <LinearLayout
-            android:id="@+id/llCamposDinamicos"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"/>
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etAccionInicial"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
 
-        <!-- Botón Agregar -->
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fabNuevoPaso"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_margin="16dp"
-            android:contentDescription="Agregar Nuevo Paso"
-            android:src="@android:drawable/ic_input_add"
-            app:backgroundTint="@color/violeta"/>
+            <!-- Contenedor para campos dinámicos -->
+            <LinearLayout
+                android:id="@+id/llCamposDinamicos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical" />
 
-        <!-- Botones de Guardar y Cerrar (Violeta) -->
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="end">
-
-            <!-- Botón Guardar -->
-            <Button
-                android:id="@+id/btnGuardar"
+            <!-- Botón para agregar un nuevo campo (puede ser un FAB) -->
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fabNuevoPaso"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Guardar"
-                android:backgroundTint="@color/violeta"
-                android:textColor="@android:color/white"
-                android:layout_marginEnd="8dp"/>
+                android:layout_gravity="end"
+                android:layout_marginTop="16dp"
+                app:srcCompat="@android:drawable/ic_input_add" />
 
-            <!-- Botón Cerrar -->
+            <!-- Grupo de botones para Guardar, Bifurcar y Cerrar -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="end"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBifurcar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bifurcar" />
+
+                <Button
+                    android:id="@+id/btnGuardar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:text="Guardar" />
+
+            </LinearLayout>
+
             <Button
                 android:id="@+id/btnCerrar"
-                android:layout_width="wrap_content"
+                android:layout_width="362dp"
                 android:layout_height="wrap_content"
-                android:text="Cerrar"
-                android:backgroundTint="@color/violeta"
-                android:textColor="@android:color/white"/>
+                android:layout_marginStart="8dp"
+                android:gravity="center_horizontal"
+                android:text="Cerrar" />
         </LinearLayout>
-
-    </LinearLayout>
-
-</ScrollView>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
